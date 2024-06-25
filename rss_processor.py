@@ -94,7 +94,7 @@ if __name__ == "__main__":
     }
     
     github_token = os.environ.get("RSS_GITHUB_TOKEN")
-    github_repo = "your_username/your_repo_name"
+    github_repo = "xxcyl/rss-feed-processor"
     file_path = "rss_data.json"
 
     existing_data = load_existing_data(github_token, github_repo, file_path)
