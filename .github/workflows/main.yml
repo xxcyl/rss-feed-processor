@@ -9,11 +9,11 @@ jobs:
   process-rss:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.12'  # 指定 Python 3.12 版本
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -21,6 +21,7 @@ jobs:
     - name: Run RSS processor
       env:
         RSS_GITHUB_TOKEN: ${{ secrets.RSS_GITHUB_TOKEN }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: python rss_processor.py
     - name: Commit and push if changed
       run: |
