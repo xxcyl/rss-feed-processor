@@ -1,11 +1,10 @@
-# rss_processor.py
-
 import feedparser
 import json
 import datetime
 import time
 import os
 from github import Github
+from bs4 import BeautifulSoup
 
 def parse_pubdate(pubdate_str):
     try:
@@ -17,11 +16,23 @@ def fetch_rss(url):
     feed = feedparser.parse(url)
     entries = []
     for entry in feed.entries:
+        # 嘗試獲取 content:encoded，如果沒有則使用 summary
+        content = entry.get('content', [{}])[0].get('value', '')
+        if not content:
+            content = entry.get('summary', '')
+        
+        # 解析 HTML 內容
+        soup = BeautifulSoup(content, 'html.parser')
+        
+        # 提取純文本內容
+        text_content = soup.get_text(separator='\n', strip=True)
+        
         entries.append({
             'title': entry.title,
             'link': entry.link,
             'published': parse_pubdate(entry.published),
-            'summary': entry.summary
+            'summary': entry.get('summary', ''),
+            'full_content': text_content,
         })
     return {
         'feed_title': feed.feed.title,
