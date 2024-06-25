@@ -1,2 +1,3 @@
 feedparser
 PyGithub
+beautifulsoup4
