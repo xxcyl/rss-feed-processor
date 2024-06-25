@@ -20,7 +20,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run RSS processor
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PAT: ${{ secrets.PAT }}  # 或者使用 RSS_GITHUB_TOKEN
       run: python rss_processor.py
     - name: Commit and push if changed
       run: |
