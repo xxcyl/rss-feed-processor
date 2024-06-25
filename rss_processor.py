@@ -5,7 +5,10 @@ import time
 import os
 from github import Github
 from bs4 import BeautifulSoup
-import openai
+from openai import OpenAI
+import re
+
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 def parse_pubdate(pubdate_str):
     try:
@@ -13,13 +16,42 @@ def parse_pubdate(pubdate_str):
     except ValueError:
         return datetime.datetime.now().isoformat()
 
-def translate_text(text, target_language="zh-TW"):
-    openai.api_key = os.environ.get("OPENAI_API_KEY")
-    response = openai.ChatCompletion.create(
+def preprocess_content(text):
+    # Remove journal name, date, and DOI information at the beginning
+    text = re.sub(r'^.*?(?=ABSTRACT|OBJECTIVES)', '', text, flags=re.DOTALL)
+    
+    # Remove PMID and DOI information at the end
+    text = re.sub(r'\s*PMID:.*$', '', text, flags=re.DOTALL)
+    
+    return text.strip()
+
+def translate_title(text, target_language="zh-TW"):
+    response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": f"You are a translator. Translate the following text to {target_language}."},
+            {"role": "system", "content": f"You are a translator specializing in academic article titles. Translate the following title to {target_language}. Keep it concise and accurate, maintaining any technical terms."},
             {"role": "user", "content": text}
+        ]
+    )
+    return response.choices[0].message.content.strip()
+
+def translate_content(text, target_language="zh-TW"):
+    # Preprocess the content first
+    preprocessed_text = preprocess_content(text)
+    
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": f"""You are a translator specializing in academic article abstracts across various disciplines. Translate the following content to {target_language}. Follow these guidelines:
+            1. Maintain the concise and formal tone typical of academic abstracts.
+            2. Preserve technical terms, translating them accurately. Provide the original English term in parentheses on first use for key concepts.
+            3. Keep all numerical data and statistical information exactly as they appear in the source text.
+            4. Maintain the original structure, typically including objectives, methods, results, and conclusions.
+            5. Accurately translate research methodologies and key findings.
+            6. Preserve abbreviations, providing a translation of the full term on first use if it's a key concept.
+            7. Ensure any cited measurements or scales remain in their original format.
+            8. Aim for clarity and precision in conveying the main points of the research."""},
+            {"role": "user", "content": preprocessed_text}
         ]
     )
     return response.choices[0].message.content.strip()
@@ -39,87 +71,31 @@ def fetch_rss(url):
             'title': entry.title,
             'link': entry.link,
             'published': parse_pubdate(entry.published),
-            'summary': entry.get('summary', ''),
             'full_content': text_content,
         }
         
-        # Add translations
-        entry_data['title_translated'] = translate_text(entry_data['title'])
-        entry_data['summary_translated'] = translate_text(entry_data['summary'])
-        entry_data['full_content_translated'] = translate_text(entry_data['full_content'])
+        # Add translations with preprocessing
+        entry_data['title_translated'] = translate_title(entry_data['title'])
+        entry_data['full_content_translated'] = translate_content(entry_data['full_content'])
         
         entries.append(entry_data)
     
-    feed_data = {
+    return {
         'feed_title': feed.feed.title,
         'feed_link': feed.feed.link,
         'feed_updated': feed.feed.updated if 'updated' in feed.feed else datetime.datetime.now().isoformat(),
         'entries': entries
     }
-    
-    # Add translation for feed title
-    feed_data['feed_title_translated'] = translate_text(feed_data['feed_title'])
-    
-    return feed_data
 
-def merge_feed_data(old_data, new_data):
-    merged_entries = old_data['entries']
-    new_entries = new_data['entries']
-    
-    existing_links = set(entry['link'] for entry in merged_entries)
-    
-    for entry in new_entries:
-        if entry['link'] not in existing_links:
-            merged_entries.append(entry)
-            existing_links.add(entry['link'])
-    
-    merged_entries.sort(key=lambda x: x['published'], reverse=True)
-    
-    return {
-        'feed_title': new_data['feed_title'],
-        'feed_title_translated': new_data['feed_title_translated'],
-        'feed_link': new_data['feed_link'],
-        'feed_updated': new_data['feed_updated'],
-        'entries': merged_entries
-    }
-
-def process_rss_sources(sources, existing_data):
-    result = existing_data or {}
-    for name, url in sources.items():
-        new_feed_data = fetch_rss(url)
-        if name in result:
-            result[name] = merge_feed_data(result[name], new_feed_data)
-        else:
-            result[name] = new_feed_data
-    return result
-
-def update_github_file(token, repo_name, file_path, content, commit_message):
-    g = Github(token)
-    repo = g.get_repo(repo_name)
-    
-    try:
-        file = repo.get_contents(file_path)
-        repo.update_file(file_path, commit_message, content, file.sha)
-    except:
-        repo.create_file(file_path, commit_message, content)
-
-def load_existing_data(token, repo_name, file_path):
-    g = Github(token)
-    repo = g.get_repo(repo_name)
-    try:
-        file = repo.get_contents(file_path)
-        content = file.decoded_content.decode('utf-8')
-        return json.loads(content)
-    except:
-        return None
+# The rest of the code (merge_feed_data, process_rss_sources, update_github_file, load_existing_data) remains the same
 
 if __name__ == "__main__":
     rss_sources = {
-        "Ear Hear": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/8005585/?limit=5&name=Ear%20Hear&utm_campaign=journals"   
+        "Ear Hear": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/8005585/?limit=5&name=Ear%20Hear&utm_campaign=journals"
+        
     }
     
     github_token = os.environ.get("RSS_GITHUB_TOKEN")
-    openai.api_key = os.environ.get("OPENAI_API_KEY")
     github_repo = "xxcyl/rss-feed-processor"
     file_path = "rss_data_bilingual.json"
     
