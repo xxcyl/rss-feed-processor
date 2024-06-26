@@ -47,47 +47,27 @@ def translate_title(text, target_language="zh-TW"):
         print(f"Error in translate_title: {e}")
         return text
 
-def translate_content(text, target_language="zh-TW"):
+def generate_tldr(text, target_language="zh-TW"):
     try:
         preprocessed_text = preprocess_content(text)
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": f"""You are an expert translator specializing in academic article abstracts. Translate the following content into {target_language}, adhering to these guidelines:
+                {"role": "system", "content": f"""You are an expert in summarizing academic research. Create an extremely concise TL;DR (Too Long; Didn't Read) summary in {target_language} of the following academic abstract. Follow these guidelines:
 
-1. Maintain the concise and formal tone typical of academic abstracts.
-2. Accurately translate technical terms. For key concepts, provide the original English term in parentheses on first use.
-3. Keep all numerical data and statistical information exactly as they appear in the source text.
-4. Maintain the original structure, typically including objectives, methods, results, and conclusions.
-5. Accurately translate research methodologies and key findings.
-6. Preserve abbreviations, providing a translation of the full term on first use if it's a key concept.
-7. Ensure any cited measurements or scales remain in their original format.
-8. Aim for clarity and precision in conveying the main points of the research.
-9. Use the following emojis and Markdown formatting:
+1. Summarize the entire abstract in 2-3 short, clear sentences.
+2. Focus only on the most crucial information: the main objective, key method, and primary finding or conclusion.
+3. Use simple, clear language while maintaining academic accuracy.
+4. Start the summary with the emoji 💡 followed by "TL;DR: ".
+5. Do not use separate headings or multiple paragraphs.
 
-🔎 **背景/引言**
-
-[Background content here]
-
-🧪 **方法**
-
-[Methods content here]
-
-📊 **結果**
-
-[Results content here]
-
-🏁 **結論**
-
-[Conclusion content here]
-
-Ensure the translation accurately reflects the original content while optimizing readability in the target language. Follow the exact format provided above, including emojis and Markdown formatting."""},
+Ensure the summary captures the essence of the research while being extremely concise."""},
                 {"role": "user", "content": preprocessed_text}
             ]
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"Error in translate_content: {e}")
+        print(f"Error in generate_tldr: {e}")
         return text
 
 def fetch_rss(url):
@@ -109,7 +89,7 @@ def fetch_rss(url):
         }
         
         entry_data['title_translated'] = translate_title(entry_data['title'])
-        entry_data['full_content_translated'] = translate_content(entry_data['full_content'])
+        entry_data['tldr'] = generate_tldr(entry_data['full_content'])
         
         entries.append(entry_data)
     
@@ -173,7 +153,6 @@ def load_existing_data(token, repo_name, file_path):
 if __name__ == "__main__":
     rss_sources = {
         "Ear Hear": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/8005585/?limit=5&name=Ear%20Hear&utm_campaign=journals"
-    
     }
     
     github_token = os.environ.get("RSS_GITHUB_TOKEN")
