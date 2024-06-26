@@ -33,7 +33,7 @@ def translate_title(text, target_language="zh-TW"):
     """使用OpenAI API翻譯文章標題"""
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": f"""You are a translator specializing in academic article titles. Translate the following title to {target_language}. Ensure the translation is concise and accurate, maintaining any technical terms. Use Traditional Chinese (Taiwan) and avoid using Simplified Chinese."""},
                 {"role": "user", "content": text}
