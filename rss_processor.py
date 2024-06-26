@@ -42,7 +42,7 @@ def translate_title(text, target_language="zh-TW"):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": f"You are a translator specializing in academic article titles. Translate the following title to {target_language}. Keep it concise and accurate, maintaining any technical terms."},
+                {"role": "system", "content": f"""You are a translator specializing in academic article titles. Translate the following title to {target_language}. Ensure the translation is concise and accurate, maintaining any technical terms.Use Traditional Chinese (Taiwan) and avoid using Simplified Chinese."""},
                 {"role": "user", "content": text}
             ]
         )
@@ -65,6 +65,7 @@ def generate_tldr(text, target_language="zh-TW"):
 3. Use simple, clear language while maintaining academic accuracy.
 4. Start the summary with the emoji 💡 followed by "TL;DR: ".
 5. Do not use separate headings or multiple paragraphs.
+6. Ensure the summary is written in Traditional Chinese (Taiwan) and avoid using Simplified Chinese.
 
 Ensure the summary captures the essence of the research while being extremely concise."""},
                 {"role": "user", "content": preprocessed_text}
