@@ -23,13 +23,6 @@ except ValueError as e:
     print("Please make sure to set the OPENAI_API_KEY environment variable before running this script.")
     sys.exit(1)
 
-def parse_pubdate(pubdate_str):
-    """解析發布日期字符串為ISO格式"""
-    try:
-        return datetime.datetime.strptime(pubdate_str, "%a, %d %b %Y %H:%M:%S %Z").isoformat()
-    except ValueError:
-        return datetime.datetime.now().isoformat()
-
 def preprocess_content(text):
     """預處理文本內容，移除不必要的部分"""
     text = re.sub(r'^.*?(?=ABSTRACT|OBJECTIVES)', '', text, flags=re.DOTALL)
@@ -42,7 +35,7 @@ def translate_title(text, target_language="zh-TW"):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": f"""You are a translator specializing in academic article titles. Translate the following title to {target_language}. Ensure the translation is concise and accurate, maintaining any technical terms.Use Traditional Chinese (Taiwan) and avoid using Simplified Chinese."""},
+                {"role": "system", "content": f"""You are a translator specializing in academic article titles. Translate the following title to {target_language}. Ensure the translation is concise and accurate, maintaining any technical terms. Use Traditional Chinese (Taiwan) and avoid using Simplified Chinese."""},
                 {"role": "user", "content": text}
             ]
         )
@@ -91,10 +84,13 @@ def fetch_rss(url):
         # 從 guid 中提取 PMID
         pmid = entry['guid'].split(':')[-1] if 'guid' in entry else None
         
+        # 直接使用 dc:date，如果不存在則使用當前時間
+        published = entry.get('dc_date', datetime.datetime.now().isoformat())
+        
         entry_data = {
             'title': entry.title,
             'link': entry.link,
-            'published': parse_pubdate(entry.published),
+            'published': published,
             'full_content': text_content,
             'pmid': pmid
         }
