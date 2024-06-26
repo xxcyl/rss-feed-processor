@@ -10,6 +10,7 @@ from openai import OpenAI
 import re
 
 def get_openai_api_key():
+    """從環境變量中獲取OpenAI API密鑰"""
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("OPENAI_API_KEY not found in environment variables. Please set the OPENAI_API_KEY environment variable.")
@@ -23,17 +24,20 @@ except ValueError as e:
     sys.exit(1)
 
 def parse_pubdate(pubdate_str):
+    """解析發布日期字符串為ISO格式"""
     try:
         return datetime.datetime.strptime(pubdate_str, "%a, %d %b %Y %H:%M:%S %Z").isoformat()
     except ValueError:
         return datetime.datetime.now().isoformat()
 
 def preprocess_content(text):
+    """預處理文本內容，移除不必要的部分"""
     text = re.sub(r'^.*?(?=ABSTRACT|OBJECTIVES)', '', text, flags=re.DOTALL)
     text = re.sub(r'\s*PMID:.*$', '', text, flags=re.DOTALL)
     return text.strip()
 
 def translate_title(text, target_language="zh-TW"):
+    """使用OpenAI API翻譯文章標題"""
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
@@ -48,6 +52,7 @@ def translate_title(text, target_language="zh-TW"):
         return text
 
 def generate_tldr(text, target_language="zh-TW"):
+    """使用OpenAI API生成文章的TL;DR摘要"""
     try:
         preprocessed_text = preprocess_content(text)
         response = client.chat.completions.create(
@@ -71,6 +76,7 @@ Ensure the summary captures the essence of the research while being extremely co
         return text
 
 def fetch_rss(url):
+    """獲取並解析RSS feed的內容"""
     feed = feedparser.parse(url)
     entries = []
     for entry in feed.entries:
@@ -105,6 +111,7 @@ def fetch_rss(url):
     }
 
 def merge_feed_data(old_data, new_data):
+    """合併新舊feed數據，避免重複條目"""
     merged_entries = old_data['entries']
     new_entries = new_data['entries']
     
@@ -126,6 +133,7 @@ def merge_feed_data(old_data, new_data):
     }
 
 def process_rss_sources(sources, existing_data):
+    """處理所有RSS來源並合併數據"""
     result = existing_data or {}
     for name, url in sources.items():
         new_feed_data = fetch_rss(url)
@@ -136,6 +144,7 @@ def process_rss_sources(sources, existing_data):
     return result
 
 def update_github_file(token, repo_name, file_path, content, commit_message):
+    """更新GitHub倉庫中的文件"""
     g = Github(token)
     repo = g.get_repo(repo_name)
     
@@ -146,6 +155,7 @@ def update_github_file(token, repo_name, file_path, content, commit_message):
         repo.create_file(file_path, commit_message, content)
 
 def load_existing_data(token, repo_name, file_path):
+    """從GitHub倉庫加載現有的JSON數據"""
     g = Github(token)
     repo = g.get_repo(repo_name)
     try:
@@ -155,10 +165,21 @@ def load_existing_data(token, repo_name, file_path):
     except:
         return None
 
+def load_rss_sources(file_path='rss_sources.json'):
+    """從JSON文件加載RSS來源"""
+    try:
+        with open(file_path, 'r') as file:
+            return json.load(file)
+    except FileNotFoundError:
+        print(f"Error: RSS sources file '{file_path}' not found.")
+        sys.exit(1)
+    except json.JSONDecodeError:
+        print(f"Error: Invalid JSON in RSS sources file '{file_path}'.")
+        sys.exit(1)
+
 if __name__ == "__main__":
-    rss_sources = {
-        "Ear Hear": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/8005585/?limit=5&name=Ear%20Hear&utm_campaign=journals"
-    }
+    # 主程序
+    rss_sources = load_rss_sources()
     
     github_token = os.environ.get("RSS_GITHUB_TOKEN")
     if not github_token:
