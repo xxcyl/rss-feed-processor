@@ -60,7 +60,7 @@ def generate_tldr(text, target_language="zh-TW"):
             messages=[
                 {"role": "system", "content": f"""You are an expert in summarizing academic research. Create an extremely concise TL;DR (Too Long; Didn't Read) summary in {target_language} of the following academic abstract. Follow these guidelines:
 
-1. Summarize the entire abstract in 2-3 short, clear sentences.
+1. Summarize the entire abstract in 3-4 short, clear sentences.
 2. Focus only on the most crucial information: the main objective, key method, and primary finding or conclusion.
 3. Use simple, clear language while maintaining academic accuracy.
 4. Start the summary with the emoji 💡 followed by "TL;DR: ".
