@@ -81,11 +81,15 @@ def fetch_rss(url):
         soup = BeautifulSoup(content, 'html.parser')
         text_content = soup.get_text(separator='\n', strip=True)
         
+        # 從 guid 中提取 PMID
+        pmid = entry['guid'].split(':')[-1] if 'guid' in entry else None
+        
         entry_data = {
             'title': entry.title,
             'link': entry.link,
             'published': parse_pubdate(entry.published),
             'full_content': text_content,
+            'pmid': pmid
         }
         
         entry_data['title_translated'] = translate_title(entry_data['title'])
@@ -104,12 +108,13 @@ def merge_feed_data(old_data, new_data):
     merged_entries = old_data['entries']
     new_entries = new_data['entries']
     
-    existing_links = set(entry['link'] for entry in merged_entries)
+    existing_pmids = set(entry.get('pmid') for entry in merged_entries if 'pmid' in entry)
     
     for entry in new_entries:
-        if entry['link'] not in existing_links:
+        pmid = entry.get('pmid')
+        if pmid and pmid not in existing_pmids:
             merged_entries.append(entry)
-            existing_links.add(entry['link'])
+            existing_pmids.add(pmid)
     
     merged_entries.sort(key=lambda x: x['published'], reverse=True)
     
