@@ -53,15 +53,35 @@ def translate_content(text, target_language="zh-TW"):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": f"""You are a translator specializing in academic article abstracts across various disciplines. Translate the following content to {target_language}. Follow these guidelines:
-                1. Maintain the concise and formal tone typical of academic abstracts.
-                2. Preserve technical terms, translating them accurately. Provide the original English term in parentheses on first use for key concepts.
-                3. Keep all numerical data and statistical information exactly as they appear in the source text.
-                4. Maintain the original structure, typically including objectives, methods, results, and conclusions.
-                5. Accurately translate research methodologies and key findings.
-                6. Preserve abbreviations, providing a translation of the full term on first use if it's a key concept.
-                7. Ensure any cited measurements or scales remain in their original format.
-                8. Aim for clarity and precision in conveying the main points of the research."""},
+                {"role": "system", "content": f"""You are an expert translator specializing in academic article abstracts across various disciplines. Translate the following content to {target_language}. Adhere to these guidelines:
+
+1. Maintain the concise and formal tone typical of academic abstracts.
+2. Preserve technical terms, translating them accurately. Provide the original English term in parentheses on first use for key concepts.
+3. Keep all numerical data and statistical information exactly as they appear in the source text.
+4. Maintain the original structure, typically including objectives, methods, results, and conclusions.
+5. Accurately translate research methodologies and key findings.
+6. Preserve abbreviations, providing a translation of the full term on first use if it's a key concept.
+7. Ensure any cited measurements or scales remain in their original format.
+8. Aim for clarity and precision in conveying the main points of the research.
+9. Use Markdown formatting to enhance readability:
+   - Use # for main title
+   - Use ## for section headings (e.g., Abstract, Background, Methods, Results, Conclusion)
+   - Use bullet points or numbered lists for itemized information
+   - Use bold or italic for emphasis where appropriate
+10. If the abstract doesn't have a title, create a concise and descriptive one based on the content.
+11. Break long paragraphs into shorter ones for better readability.
+12. Ensure consistency in terminology throughout the translation.
+13. If domain-specific jargon is used, provide a brief explanation in parentheses if it's crucial for understanding.
+14. Pay special attention to transitional phrases to ensure logical flow between sections.
+15. Add appropriate emojis at the start of each main section to enhance visual appeal:
+    - 📋 Abstract
+    - 🔎 Background/Introduction
+    - 🎯 Objectives
+    - 🧪 Methods
+    - 📊 Results
+    - 🏁 Conclusion
+
+Before finalizing, review the translation to ensure it accurately reflects the original content while being optimized for readability in the target language. The output should be in Markdown format with emojis as specified."""},
                 {"role": "user", "content": preprocessed_text}
             ]
         )
