@@ -84,8 +84,8 @@ def fetch_rss(url):
         # 從 guid 中提取 PMID
         pmid = entry['guid'].split(':')[-1] if 'guid' in entry else None
         
-        # 直接使用 dc:date，如果不存在則使用當前時間
-        published = entry.get('dc_date', datetime.datetime.now().isoformat())
+        # 使用正確的 'dc:date'，如果不存在則使用當前時間
+        published = entry.get('dc:date', datetime.datetime.now().isoformat())
         
         entry_data = {
             'title': entry.title,
@@ -106,7 +106,7 @@ def fetch_rss(url):
         'feed_updated': feed.feed.updated if 'updated' in feed.feed else datetime.datetime.now().isoformat(),
         'entries': entries
     }
-
+    
 def merge_feed_data(old_data, new_data):
     """合併新舊feed數據，避免重複條目"""
     merged_entries = old_data['entries']
