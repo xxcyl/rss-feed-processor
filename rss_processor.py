@@ -84,8 +84,8 @@ def fetch_rss(url):
         # 從 guid 中提取 PMID
         pmid = entry['guid'].split(':')[-1] if 'guid' in entry else None
         
-        # 使用正確的 'dc:date'，如果不存在則使用當前時間
-        published = entry.get('dc:date', datetime.datetime.now().isoformat())
+        # 使用 'date' 字段，如果不存在則使用當前日期
+        published = entry.get('date', datetime.date.today().isoformat())
         
         entry_data = {
             'title': entry.title,
@@ -103,7 +103,7 @@ def fetch_rss(url):
     return {
         'feed_title': feed.feed.title,
         'feed_link': feed.feed.link,
-        'feed_updated': feed.feed.updated if 'updated' in feed.feed else datetime.datetime.now().isoformat(),
+        'feed_updated': feed.feed.updated if 'updated' in feed.feed else datetime.date.today().isoformat(),
         'entries': entries
     }
     
