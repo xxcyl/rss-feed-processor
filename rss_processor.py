@@ -69,8 +69,8 @@ Ensure the summary captures the essence of the research while being extremely co
         print(f"Error in generate_tldr: {e}")
         return text
 
-def fetch_rss(url):
-    """獲取並解析RSS feed的內容"""
+def fetch_rss_basic(url):
+    """獲取 RSS feed 的基本內容，不包括翻譯和摘要"""
     feed = feedparser.parse(url)
     entries = []
     for entry in feed.entries:
@@ -81,24 +81,16 @@ def fetch_rss(url):
         soup = BeautifulSoup(content, 'html.parser')
         text_content = soup.get_text(separator='\n', strip=True)
         
-        # 從 guid 中提取 PMID
         pmid = entry['guid'].split(':')[-1] if 'guid' in entry else None
-        
-        # 使用 'date' 字段，如果不存在則使用當前日期
         published = entry.get('date', datetime.date.today().isoformat())
         
-        entry_data = {
+        entries.append({
             'title': entry.title,
             'link': entry.link,
             'published': published,
             'full_content': text_content,
             'pmid': pmid
-        }
-        
-        entry_data['title_translated'] = translate_title(entry_data['title'])
-        entry_data['tldr'] = generate_tldr(entry_data['full_content'])
-        
-        entries.append(entry_data)
+        })
     
     return {
         'feed_title': feed.feed.title,
@@ -106,38 +98,45 @@ def fetch_rss(url):
         'feed_updated': feed.feed.updated if 'updated' in feed.feed else datetime.date.today().isoformat(),
         'entries': entries
     }
-    
-def merge_feed_data(old_data, new_data):
-    """合併新舊feed數據，避免重複條目"""
-    merged_entries = old_data['entries']
-    new_entries = new_data['entries']
-    
-    existing_pmids = set(entry.get('pmid') for entry in merged_entries if 'pmid' in entry)
-    
-    for entry in new_entries:
-        pmid = entry.get('pmid')
-        if pmid and pmid not in existing_pmids:
-            merged_entries.append(entry)
-            existing_pmids.add(pmid)
-    
-    merged_entries.sort(key=lambda x: x['published'], reverse=True)
-    
-    return {
-        'feed_title': new_data['feed_title'],
-        'feed_link': new_data['feed_link'],
-        'feed_updated': new_data['feed_updated'],
-        'entries': merged_entries
-    }
 
 def process_rss_sources(sources, existing_data):
     """處理所有RSS來源並合併數據"""
     result = existing_data or {}
     for name, url in sources.items():
-        new_feed_data = fetch_rss(url)
+        new_feed_data = fetch_rss_basic(url)
         if name in result:
-            result[name] = merge_feed_data(result[name], new_feed_data)
+            existing_entries = result[name]['entries']
+            existing_pmids = {entry['pmid'] for entry in existing_entries if 'pmid' in entry}
+            
+            new_entries = []
+            for entry in new_feed_data['entries']:
+                if entry['pmid'] not in existing_pmids:
+                    entry['title_translated'] = translate_title(entry['title'])
+                    entry['tldr'] = generate_tldr(entry['full_content'])
+                    new_entries.append(entry)
+            
+            all_entries = existing_entries + new_entries
+            all_entries.sort(key=lambda x: x['published'], reverse=True)
+            
+            result[name] = {
+                'feed_title': new_feed_data['feed_title'],
+                'feed_link': new_feed_data['feed_link'],
+                'feed_updated': new_feed_data['feed_updated'],
+                'entries': all_entries
+            }
         else:
-            result[name] = new_feed_data
+            new_entries = [
+                {**entry, 
+                 'title_translated': translate_title(entry['title']),
+                 'tldr': generate_tldr(entry['full_content'])}
+                for entry in new_feed_data['entries']
+            ]
+            result[name] = {
+                'feed_title': new_feed_data['feed_title'],
+                'feed_link': new_feed_data['feed_link'],
+                'feed_updated': new_feed_data['feed_updated'],
+                'entries': new_entries
+            }
     return result
 
 def update_github_file(token, repo_name, file_path, content, commit_message):
