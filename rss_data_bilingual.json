@@ -1,8 +1,8 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&ff=20240627043212&utm_source=Other&v=2.18.0.post9+e462414&fc=20240626023002",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:13 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_medium=rss&ff=20240628205949&utm_source=Other&utm_campaign=pubmed-2&v=2.18.0.post9+e462414",
+        "feed_updated": "Sat, 29 Jun 2024 00:59:50 +0000",
         "entries": [
             {
                 "title": "International Consensus Statements on Intraoperative Testing for Cochlear Implantation Surgery",
@@ -143,9 +143,27 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&ff=20240627043213&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&fc=20240626023137&utm_medium=rss&utm_campaign=pubmed-2&utm_source=Other",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:14 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&ff=20240628205951&fc=20240626023137",
+        "feed_updated": "Sat, 29 Jun 2024 00:59:51 +0000",
         "entries": [
+            {
+                "title": "Binaural responses to a speech syllable are altered in children with hearing loss: Evidence from the frequency-following response",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/38936172/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240628205951&v=2.18.0.post9+e462414",
+                "published": "2024-06-27",
+                "full_content": "Hear Res\n. 2024 Jun 13;450:109068. doi: 10.1016/j.heares.2024.109068. Online ahead of print.\nABSTRACT\nBACKGROUND & RATIONALE: In prior work using non-speech stimuli, children with hearing loss show impaired perception of binaural cues and no significant change in cortical responses to bilateral versus unilateral stimulation. Aims of the present study were to: 1) identify bilateral responses to envelope and spectral components of a speech syllable using the frequency-following response (FFR), 2) determine if abnormalities in the bilateral FFR occur in children with hearing loss, and 3) assess functional consequences of abnormal bilateral FFR responses on perception of binaural timing cues.\nMETHODS: A single-syllable speech stimulus (/dα/) was presented to each ear individually and bilaterally. Participants were 9 children with normal hearing (M\nAge\n= 12.1 ± 2.5 years) and 6 children with bilateral hearing loss who were experienced bilateral hearing aid users (M\nAge\n= 14.0 ± 2.6 years). FFR temporal and spectral peak amplitudes were compared between listening conditions and groups using linear mixed model regression analyses. Behavioral sensitivity to binaural cues were measured by lateralization responses as coming from the right or left side of the head.\nRESULTS: Both temporal and spectral peaks in FFR responses increased in amplitude in the bilateral compared to unilateral listening conditions in children with normal hearing. These measures of \"bilateral advantage\" were reduced in the group of children with bilateral hearing loss and associated with decreased sensitivity to interaural timing differences.\nCONCLUSION: This study is the first to show that bilateral responses in both temporal and spectral domains can be measured in children using the FFR and is altered in children with hearing loss with consequences to binaural hearing.\nPMID:\n38936172\n| DOI:\n10.1016/j.heares.2024.109068",
+                "pmid": "38936172",
+                "title_translated": "聽損兒童對語音音節的雙耳反應發生改變：來自頻率跟隨反應的證據",
+                "tldr": "💡TL;DR: 本研究探討聽力受損兒童對語音的聲音覆被和頻譜元件的雙側反應，利用頻率跟隨反應（FFR）以及評估其對雙耳時間提示感知的功能後果。研究發現具有正常聽力的兒童在雙聽條件下的FFR反應中，時間和頻譜峰值均增加；然而，聽力受損兒童的雙側優勢較弱，並且導致對雙耳時間差異的敏感度降低。"
+            },
+            {
+                "title": "Associations between diabetes mellitus and sensorineural hearing loss from humans and animal studies",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/38936171/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240628205951&v=2.18.0.post9+e462414",
+                "published": "2024-06-27",
+                "full_content": "Hear Res\n. 2024 Jun 20;450:109072. doi: 10.1016/j.heares.2024.109072. Online ahead of print.\nABSTRACT\nThere is controversy regarding the association and etiopathogenesis of diabetes mellitus (DM) and sensorineural hearing loss (SNHL). Some studies support that SNHL develops because of angiopathy and/or neuropathy caused by DM, but many of the findings have been inconsistent. This review aims to highlight a select number of studies that effectively describe the relationship between DM and SNHL, thus bringing more attention and awareness to this area of research. This review also describes animal models to understand better the mechanisms of DM contributing to SNHL in the inner ear. The goal of this narrative review is for researchers and healthcare professionals to further their understanding and investigation of the etiopathogenesis of both DM and SNHL, therefore leading to the development of effective treatments for diabetic patients displaying symptoms of SNHL.\nPMID:\n38936171\n| DOI:\n10.1016/j.heares.2024.109072",
+                "pmid": "38936171",
+                "title_translated": "糖尿病與感音神經性聽力損失之間的關聯：來自人類與動物研究的證據",
+                "tldr": "💡 TL;DR: 這篇文章回顧了糖尿病（DM）與感覺神經性聽力損失（SNHL）之間的關係，強調了一些有效描述二者關係的研究，同時提到動物模型有助於深入瞭解DM對內耳引起SNHL的機制。這項綜述的目的是引起更多對這一研究領域的關注，幫助研究人員和醫護人員更好地了解和探究DM和SNHL的發病機理，從而開發更有效的治療方法。"
+            },
             {
                 "title": "A burden shared: The evolutionary case for studying human deafness in Drosophila",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38896942/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240626212357&v=2.18.0.post9+e462414",
@@ -285,8 +303,8 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&ff=20240627043214&v=2.18.0.post9+e462414&utm_medium=rss&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&fc=20240626033437&utm_source=Other",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:14 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&ff=20240628205958&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_medium=rss&utm_source=Other&fc=20240626033437&v=2.18.0.post9+e462414",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:00 +0000",
         "entries": [
             {
                 "title": "Pre-school hearing screening is necessary to detect childhood hearing loss after the newborn period: a study exploring risk factors, additional disabilities, and referral pathways",
@@ -427,8 +445,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&v=2.18.0.post9+e462414&utm_source=Other&fc=20240626034904&utm_medium=rss&utm_campaign=pubmed-2&ff=20240627043215",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:16 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&v=2.18.0.post9+e462414&ff=20240628210001&utm_campaign=pubmed-2&fc=20240626034904&utm_source=Other&utm_medium=rss&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:02 +0000",
         "entries": [
             {
                 "title": "Safety and Early Outcomes of Cochlear Implantation of Nucleus Devices in Infants: A Multi-Centre Study",
@@ -569,8 +587,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&v=2.18.0.post9+e462414&fc=20240626035035&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240627043216&utm_source=Other",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:18 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&v=2.18.0.post9+e462414&fc=20240626035035&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_campaign=pubmed-2&ff=20240628210004&utm_medium=rss&utm_source=Other",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:05 +0000",
         "entries": [
             {
                 "title": "The Role of Measuring Preoperative Social Maturation Score in Children With Additional Needs Who Underwent Cochlear Implantation",
@@ -711,8 +729,8 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&ff=20240627043218&fc=20240626035128",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:19 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240626035128&utm_campaign=pubmed-2&ff=20240628210005&utm_source=Other",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:06 +0000",
         "entries": [
             {
                 "title": "Effect of External Ear Deformity on Hearing in Wrestlers",
@@ -853,8 +871,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_campaign=pubmed-2&ff=20240627043220&utm_source=Other&fc=20240626035220&utm_medium=rss&v=2.18.0.post9+e462414&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:22 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_medium=rss&utm_campaign=pubmed-2&ff=20240628210006&fc=20240626035220",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:07 +0000",
         "entries": [
             {
                 "title": "Chapter 4: Introduction and Getting Ready for Real-Ear Probe Microphone Measures",
@@ -995,8 +1013,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240627043222&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&fc=20240626203307&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:22 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240628210007&utm_medium=rss&utm_campaign=pubmed-2&fc=20240626203307&utm_source=Other",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:07 +0000",
         "entries": [
             {
                 "title": "Sudden Hearing Loss Before, During, and After the Pandemic: Investigating COVID-19 Illness and Vaccine-Related Symptoms",
@@ -1137,9 +1155,18 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&ff=20240627043222&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_medium=rss&utm_source=Other",
-        "feed_updated": "Thu, 27 Jun 2024 08:32:23 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_campaign=pubmed-2&ff=20240628210008&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_medium=rss&utm_source=Other&fc=20240627042757&v=2.18.0.post9+e462414",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:09 +0000",
         "entries": [
+            {
+                "title": "Clinical Implementation of DIGEST as an Evidence-Based Practice Tool for Videofluoroscopy in Oncology: A Six-Year Single Institution Implementation Evaluation",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/38935170/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&ff=20240628210008&v=2.18.0.post9+e462414",
+                "published": "2024-06-27",
+                "full_content": "Dysphagia\n. 2024 Jun 27. doi: 10.1007/s00455-024-10721-2. Online ahead of print.\nABSTRACT\nClinical implementation of evidence-based practice (EBP) tools is a healthcare priority. The Dynamic Grade of Swallowing Toxicity (DIGEST) is an EBP tool developed in 2016 for videofluoroscopy in head and neck (H&N) oncology with clinical implementation as a goal. We sought to examine: (1) feasibility of clinical implementation of DIGEST in a national comprehensive cancer center, and (2) fidelity of DIGEST adoption in real-world practice. A retrospective implementation evaluation was conducted in accordance with the STARI framework. Electronic health record (EHR) databases were queried for all consecutive modified barium swallow (MBS) studies conducted at MD Anderson Cancer Center from 2016 to 2021. Implementation outcomes included: feasibility as measured by DIGEST reporting in EHR (as a marker of clinical use) and fidelity as measured by accuracy of DIGEST reporting relative to the decision-tree logic (penetration-aspiration scale [PAS], residue, and Safety [S] and Efficiency [E] grades). Contextual factors examined included year, setting, cancer type, MBS indication, and provider. 13,055 MBS were conducted by 29 providers in 7,842 unique patients across the lifespan in diverse oncology populations (69% M; age 1-96 years; 58% H&N cancer; 10% inpatient, 90% outpatient). DIGEST was reported in 12,137/13,088 exams over the 6-year implementation period representing 93% (95% CI: 93-94%) adoption in all exams and 99% (95% CI: 98-99%) of exams excluding the total laryngectomy population (n = 730). DIGEST reporting varied modestly by year, cancer type, and setting/provider (> 91% in all subgroups, p < 0.001). Accuracy of DIGEST reporting was high for overall DIGEST (incorrect SE profile 1.6%, 200/12,137), DIGEST-safety (incorrect PAS 0.4% 51/12,137) and DIGEST-efficiency (incorrect residue 1.2%, 148/12,137). Clinical implementation of DIGEST was feasible with high fidelity in a busy oncology practice across a large number of providers. Adoption of the tool across the lifespan in diverse cancer diagnoses may motivate validation beyond H&N oncology.\nPMID:\n38935170\n| DOI:\n10.1007/s00455-024-10721-2",
+                "pmid": "38935170",
+                "title_translated": "在腫瘤學中將DIGEST作為一種基於實證的攝影偏振法臨床實踐工具的應用：六年單一機構實施評估",
+                "tldr": "💡 TL;DR: 研究旨在檢驗DIGEST在頭頸部腫瘤視頻X光攝影中的臨床應用可行性和忠實度。研究回顧了MD Anderson癌症中心自2016年至2021年進行的13,055次修正鋇餐攝影檢查，結果顯示DIGEST在93%的檢查中有報告，並在99%的檢查中符合決策樹邏輯。總體而言，DIGEST在繁忙的腫瘤實踐中實行良好並具有高忠實度，可能在多種癌症診斷中擴展驗證。"
+            },
             {
                 "title": "Dysphagia and Trismus After Tooth Extraction : Clinical Conondrum",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38922423/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&ff=20240627043222&v=2.18.0.post9+e462414",
@@ -1279,8 +1306,8 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240627043335&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&fc=20240627042910&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn",
-        "feed_updated": "Thu, 27 Jun 2024 08:33:36 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_source=Other&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&ff=20240628210012&fc=20240627042910&utm_medium=rss&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:13 +0000",
         "entries": [
             {
                 "title": "Moving Toward Anti-Ableist Practices in Aphasia Rehabilitation and Research: A Viewpoint",
@@ -1421,9 +1448,18 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&ff=20240627043445&fc=20240627043029",
-        "feed_updated": "Thu, 27 Jun 2024 08:34:45 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&ff=20240628210013",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:14 +0000",
         "entries": [
+            {
+                "title": "Acquisition of Gutturals by Ammani-Jordanian Arabic-Speaking Preschoolers",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/38941556/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240628210013&v=2.18.0.post9+e462414",
+                "published": "2024-06-28",
+                "full_content": "J Speech Lang Hear Res\n. 2024 Jun 28:1-22. doi: 10.1044/2024_JSLHR-23-00085. Online ahead of print.\nABSTRACT\nPURPOSE: This study aims at investigating the phonological development of the six guttural consonants of Jordanian Arabic, /χ/, /ʁ/, /ħ/, /ʕ/, /ʔ/, and /h/.\nMETHOD: An articulation test is designed to involve two tasks: picture naming and repetition. The test includes 54 words for picture naming and 18 words for repetition, representing all possible positions of the targeted guttural sounds. Samples are collected from 40 typically developing Ammani-Jordanian Arabic-speaking monolingual children, living in Amman, Jordan. Respondents are equally divided into eight age-related trajectories: 2-2;6, 2;6-3, 3-3;6, 3;6-4, 4-4;6, 4;6-5, 5-5;6, and 5;6-6 (years;months). No child with a history of hearing, speech, or vision disorders is included. The data are analyzed using\nproduction accuracy\n, where the three developmental trajectories of production (customary, acquisition, and mastery) are determined for each guttural, and\nerror analysis\n, addressed based on perceptual judgments, providing details of every mispronounced or deleted guttural.\nRESULTS: The results show that /χ/, /ħ/, /ʕ/, and /ʔ/ are acquired before the age of 6 years, while /ʁ/ and /h/ are still not acquired by this age. Respondents use relatively variant alternatives for the mispronounced cognates, including guttural, nonguttural sounds, and vowel substitution. The /ʁ/ is the guttural with the highest number of alternatives, while /ʔ/ gets the least. The analysis also reveals patterns of guttural deletion, with variations across different guttural sounds and positions. Despite errors/deviations made, respondents score accuracy percentages that gradually increase in correlation with age. The guttural /ʁ/ starts with the lowest accuracy percentages, while /ʔ/ and /ħ/ start with the highest.\nCONCLUSIONS: These findings illuminate on the developmental trajectory of guttural acquisition and enrich our understanding of children's evolving perception and production abilities. They offer valuable insights into the patterns of guttural sound production in Jordanian Arabic-speaking children, laying the groundwork for further research and the development of targeted assessment and intervention strategies to support phonological development in this population.\nPMID:\n38941556\n| DOI:\n10.1044/2024_JSLHR-23-00085",
+                "pmid": "38941556",
+                "title_translated": "安曼-約旦阿拉伯語學齡前兒童對喉音的習得研究",
+                "tldr": "💡 TL;DR: \n\n研究旨在探究約旦阿拉伯語的六個喉音輔音的音韻發展。研究採用發音測試包括圖片命名和重複聲音的任務，為40名約旦安曼阿拉伯語母語兒童進行了試驗，結果顯示其中/χ/、/ħ/、/ʕ/和/ʔ/在6歲前已獲得，而/ʁ/和/h/則未。評估結果顯示兒童在年齡增長過程中逐漸提高發音的準確性，並揭示了不同喉音聲音和位置之間的差異。"
+            },
             {
                 "title": "Lexical Morphology as a Source of Risk and Resilience for Learning to Read With Dyslexia: An fNIRS Investigation",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38924392/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240627043445&v=2.18.0.post9+e462414",
@@ -1563,8 +1599,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240627043559&fc=20240627043108&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other",
-        "feed_updated": "Thu, 27 Jun 2024 08:36:00 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_source=Other&utm_campaign=pubmed-2&ff=20240628210018&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240627043108",
+        "feed_updated": "Sat, 29 Jun 2024 01:00:19 +0000",
         "entries": [
             {
                 "title": "Internal State Terms in the Narratives of Bilingual Children With Developmental Language Disorder: The Role of Microstructure and Macrostructure",
