@@ -1,9 +1,27 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_source=Other&utm_medium=rss&fc=20240626023002&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240714202102",
-        "feed_updated": "Mon, 15 Jul 2024 00:21:02 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&ff=20240715203606&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&fc=20240626023002&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:07 +0000",
         "entries": [
+            {
+                "title": "The Role of Early Intact Auditory Experience on the Perception of Spoken Emotions, Comparing Prelingual to Postlingual Cochlear Implant Users",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39004788/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240715203606&v=2.18.0.post9+e462414",
+                "published": "2024-07-15",
+                "full_content": "Ear Hear\n. 2024 Jul 15. doi: 10.1097/AUD.0000000000001550. Online ahead of print.\nABSTRACT\nOBJECTIVES: Cochlear implants (CI) are remarkably effective, but have limitations regarding the transformation of the spectro-temporal fine structures of speech. This may impair processing of spoken emotions, which involves the identification and integration of semantic and prosodic cues. Our previous study found spoken-emotions-processing differences between CI users with postlingual deafness (postlingual CI) and normal hearing (NH) matched controls (age range, 19 to 65 years). Postlingual CI users over-relied on semantic information in incongruent trials (prosody and semantics present different emotions), but rated congruent trials (same emotion) similarly to controls. Postlingual CI's intact early auditory experience may explain this pattern of results. The present study examined whether CI users without intact early auditory experience (prelingual CI) would generally perform worse on spoken emotion processing than NH and postlingual CI users, and whether CI use would affect prosodic processing in both CI groups. First, we compared prelingual CI users with their NH controls. Second, we compared the results of the present study to our previous study (Taitlebaum-Swead et al. 2022; postlingual CI).\nDESIGN: Fifteen prelingual CI users and 15 NH controls (age range, 18 to 31 years) listened to spoken sentences composed of different combinations (congruent and incongruent) of three discrete emotions (anger, happiness, sadness) and neutrality (performance baseline), presented in prosodic and semantic channels (Test for Rating of Emotions in Speech paradigm). Listeners were asked to rate (six-point scale) the extent to which each of the predefined emotions was conveyed by the sentence as a whole (integration of prosody and semantics), or to focus only on one channel (rating the target emotion [RTE]) and ignore the other (selective attention). In addition, all participants performed standard tests of speech perception. Performance on the Test for Rating of Emotions in Speech was compared with the previous study (postlingual CI).\nRESULTS: When asked to focus on one channel, semantics or prosody, both CI groups showed a decrease in prosodic RTE (compared with controls), but only the prelingual CI group showed a decrease in semantic RTE. When the task called for channel integration, both groups of CI users used semantic emotional information to a greater extent than their NH controls. Both groups of CI users rated sentences that did not present the target emotion higher than their NH controls, indicating some degree of confusion. However, only the prelingual CI group rated congruent sentences lower than their NH controls, suggesting reduced accumulation of information across channels. For prelingual CI users, individual differences in identification of monosyllabic words were significantly related to semantic identification and semantic-prosodic integration.\nCONCLUSIONS: Taken together with our previous study, we found that the degradation of acoustic information by the CI impairs the processing of prosodic emotions, in both CI user groups. This distortion appears to lead CI users to over-rely on the semantic information when asked to integrate across channels. Early intact auditory exposure among CI users was found to be necessary for the effective identification of semantic emotions, as well as the accumulation of emotional information across the two channels. Results suggest that interventions for spoken-emotion processing should not ignore the onset of hearing loss.\nPMID:\n39004788\n| DOI:\n10.1097/AUD.0000000000001550",
+                "pmid": "39004788",
+                "title_translated": "早期完整聽覺經驗對語音情感感知的影響：前語言期與後語言期人工耳蝸使用者的比較",
+                "tldr": "💡 TL;DR: 研究比較語音情緒處理中不同植入聽覺裝置（CI）使用者的表現。結果顯示，CI使用者在整合聲音通道時過度依賴語義信息，而非CI群體。兩組CI使用者在處理情緒時表現較差，尤其是早期失聽者。研究強調CI使用者由於裝置影響而傾向於過度依賴語義信息，提示治療應考慮聽力喪失開始時間。"
+            },
+            {
+                "title": "The Influence of Asymmetric Hearing Loss on Peripheral and Central Auditory Processing Abilities in Patients With Vestibular Schwannoma",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39004787/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240715203606&v=2.18.0.post9+e462414",
+                "published": "2024-07-15",
+                "full_content": "Ear Hear\n. 2024 Jul 15. doi: 10.1097/AUD.0000000000001555. Online ahead of print.\nABSTRACT\nOBJECTIVES: Asymmetric or unilateral hearing loss (AHL) may cause irreversible changes in the processing of acoustic signals in the auditory system. We aim to provide a comprehensive view of the auditory processing abilities for subjects with acquired AHL, and to examine the influence of AHL on speech perception under difficult conditions, and on auditory temporal and intensity processing.\nDESIGN: We examined peripheral and central auditory functions for 25 subjects with AHL resulting from vestibular schwannoma, and compared them to those from 24 normal-hearing controls that were matched with the AHL subjects in mean age and hearing thresholds in the healthy ear. Besides the basic hearing threshold assessment, the tests comprised the detection of tones and gaps in a continuous noise, comprehension of speech in babble noise, binaural interactions, difference limen of intensity, and detection of frequency modulation. For the AHL subjects, the selected tests were performed separately for the healthy and diseased ear.\nRESULTS: We observed that binaural speech comprehension, gap detection, and frequency modulation detection abilities were dominated by the healthy ear and were comparable for both groups. The AHL subjects were less sensitive to interaural delays, however, they exhibited a higher sensitivity to sound level, as indicated by lower difference limen of intensity and a higher sensitivity to interaural intensity difference. Correlations between the individual test scores indicated that speech comprehension by the AHL subjects was associated with different auditory processing mechanisms than for the control subjects.\nCONCLUSIONS: The data suggest that AHL influences both peripheral and central auditory processing abilities and that speech comprehension under difficult conditions relies on different mechanisms for the AHL subjects than for normal-hearing controls.\nPMID:\n39004787\n| DOI:\n10.1097/AUD.0000000000001555",
+                "pmid": "39004787",
+                "title_translated": "前庭神經鞘瘤患者非對稱性聽力損失對周邊及中樞聽覺處理能力的影響",
+                "tldr": "💡 TL;DR: 研究探討單側聽力損失對聲音處理的影響。研究發現，單側聽力患者對語音理解受影響，但對聽力強度和時間處理敏感。結果顯示，單側聽力損失對聽力處理能力產生影響，導致在困難條件下的語音理解機制與正常聽覺控制組不同。"
+            },
             {
                 "title": "Chronic Electro-Acoustic Stimulation May Interfere With Electric Threshold Recovery After Cochlear Implantation in the Aged Guinea Pig",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38992863/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240714202102&v=2.18.0.post9+e462414",
@@ -197,9 +215,27 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&v=2.18.0.post9+e462414&utm_medium=rss&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&utm_campaign=pubmed-2&ff=20240714202116",
-        "feed_updated": "Mon, 15 Jul 2024 00:21:16 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&ff=20240715203614&utm_medium=rss&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2&utm_source=Other&fc=20240626023137",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:14 +0000",
         "entries": [
+            {
+                "title": "Effect of stimulus duration on estimates of human cochlear tuning",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39004016/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240715203614&v=2.18.0.post9+e462414",
+                "published": "2024-07-14",
+                "full_content": "Hear Res\n. 2024 Jul 11;451:109080. doi: 10.1016/j.heares.2024.109080. Online ahead of print.\nABSTRACT\nAuditory masking methods originally employed to assess behavioral frequency selectivity have evolved over the years to infer cochlear tuning. Behavioral forward masking thresholds for spectrally notched noise maskers and a fixed, low-level probe tone provide accurate estimates of cochlear tuning. Here, we use this method to investigate the effect of stimulus duration on human cochlear tuning at 500 Hz and 4 kHz. Probes were 20-ms sinusoids at 10 dB sensation level. Maskers were noises with a spectral notch symmetrically and asymmetrically placed around the probe frequency. For seven participants with normal hearing, masker levels at masking threshold were measured in forward masking for various notch widths and for masker durations of 30 and 400 ms. Measurements were fitted assuming rounded exponential filter shapes and the power spectrum model of masking, and equivalent rectangular bandwidths (ERBs) were inferred from the fits. At 4 kHz, masker thresholds were higher for the shorter maskers but ERBs were not significantly different for the two masker durations (ERB\n30ms\n=294 Hz vs. ERB\n400ms\n=277 Hz). At 500 Hz, by contrast, notched-noise curves were shallower for the 30-ms than the 400-ms masker, and ERBs were significantly broader for the shorter masker (ERB\n30ms\n=126 Hz vs. ERB\n400ms\n=55 Hz). We discuss possible factors that may underlay the duration effect at low frequencies and argue that it may not be possible to fully control for those factors. We conclude that tuning estimates are not affected by maker duration at high frequencies but should be measured and interpreted with caution at low frequencies.\nPMID:\n39004016\n| DOI:\n10.1016/j.heares.2024.109080",
+                "pmid": "39004016",
+                "title_translated": "刺激持續時間對人類耳蝸調諧估計的影響",
+                "tldr": "💡 TL;DR:  使用聽覺掩蔽方法來研究聽覺在 500 Hz 和 4 kHz 的音準。研究發現在高頻時，掩蔽閾值不受遮罩持續時間影響，但低頻時ERB (等效矩形帶寬)受持續時間影響顯著。建議在低頻時測量和解釋音準估計時需謹慎。"
+            },
+            {
+                "title": "The contribution of short-term memory for sound features to speech-in-noise perception and cognition",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39004015/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240715203614&v=2.18.0.post9+e462414",
+                "published": "2024-07-14",
+                "full_content": "Hear Res\n. 2024 Jul 11;451:109081. doi: 10.1016/j.heares.2024.109081. Online ahead of print.\nABSTRACT\nSpeech-in-noise (SIN) perception is a fundamental ability that declines with aging, as does general cognition. We assess whether auditory cognitive ability, in particular short-term memory for sound features, contributes to both. We examined how auditory memory for fundamental sound features, the carrier frequency and amplitude modulation rate of modulated white noise, contributes to SIN perception. We assessed SIN in 153 healthy participants with varying degrees of hearing loss using measures that require single-digit perception (the Digits-in-Noise, DIN) and sentence perception (Speech-in-Babble, SIB). Independent variables were auditory memory and a range of other factors including the Pure Tone Audiogram (PTA), a measure of dichotic pitch-in-noise perception (Huggins pitch), and demographic variables including age and sex. Multiple linear regression models were compared using Bayesian Model Comparison. The best predictor model for DIN included PTA and Huggins pitch (r\n2\n= 0.32, p < 0.001), whereas the model for SIB included the addition of auditory memory for sound features (r\n2\n= 0.24, p < 0.001). Further analysis demonstrated that auditory memory also explained a significant portion of the variance (28 %) in scores for a screening cognitive test for dementia. Auditory memory for non-speech sounds may therefore provide an important predictor of both SIN and cognitive ability.\nPMID:\n39004015\n| DOI:\n10.1016/j.heares.2024.109081",
+                "pmid": "39004015",
+                "title_translated": "短期記憶中聲音特徵對噪音中語音感知和認知的貢獻",
+                "tldr": "💡 TL;DR: 本研究評估聽覺認知能力，尤其是對聲音特徵的短期記憶，是否對於在噪音中的語音感知有影響。研究發現，聽覺記憶對於在噪音中的語音感知有顯著影響，以及可作為認知能力的預測因子。進一步分析顯示，聽覺記憶還能夠解釋患有認知障礙的人在測試中的得分差異。"
+            },
             {
                 "title": "Parallel EEG assessment of different sound predictability levels in tinnitus",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38996530/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240714202116&v=2.18.0.post9+e462414",
@@ -402,8 +438,8 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&ff=20240714202130&utm_source=Other",
-        "feed_updated": "Mon, 15 Jul 2024 00:21:31 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&fc=20240626033437&ff=20240715203621&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:22 +0000",
         "entries": [
             {
                 "title": "Meaningful life changes following hearing aid use: a qualitative user perspective",
@@ -580,8 +616,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240714202135&utm_campaign=pubmed-2&utm_medium=rss&fc=20240626034904&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI",
-        "feed_updated": "Mon, 15 Jul 2024 00:21:35 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240715203622",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:23 +0000",
         "entries": [
             {
                 "title": "Safety and Early Outcomes of Cochlear Implantation of Nucleus Devices in Infants: A Multi-Centre Study",
@@ -722,8 +758,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_campaign=pubmed-2&ff=20240714202135&fc=20240626035035&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Mon, 15 Jul 2024 00:21:36 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240715203623&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&fc=20240626035035&utm_source=Other",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:24 +0000",
         "entries": [
             {
                 "title": "The Relationship Between Lower Vitamin D Levels and Hearing Loss in Older Adults",
@@ -936,8 +972,8 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&v=2.18.0.post9+e462414&fc=20240626035128&ff=20240714202153&utm_source=Other",
-        "feed_updated": "Mon, 15 Jul 2024 00:21:54 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&ff=20240715203624&utm_campaign=pubmed-2&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_medium=rss&fc=20240626035128&v=2.18.0.post9+e462414",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:25 +0000",
         "entries": [
             {
                 "title": "Transducer Variability in Speech-in-Noise Testing: Considerations Related to Stimulus Bandwidth",
@@ -1141,8 +1177,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_campaign=pubmed-2&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240714202206&fc=20240626035220&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Mon, 15 Jul 2024 00:22:06 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240715203625&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&fc=20240626035220&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:27 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1292,8 +1328,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240714202208&utm_campaign=pubmed-2&utm_medium=rss&fc=20240626203307",
-        "feed_updated": "Mon, 15 Jul 2024 00:22:09 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&fc=20240626203307&utm_medium=rss&utm_campaign=pubmed-2&utm_source=Other&ff=20240715203627&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:27 +0000",
         "entries": [
             {
                 "title": "Intra-cochlear electrode position impacts the preservation of residual hearing in an animal model of cochlear implant surgery",
@@ -1443,9 +1479,18 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&ff=20240714202214&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2",
-        "feed_updated": "Mon, 15 Jul 2024 00:22:14 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240715203627&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&utm_source=Other",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:28 +0000",
         "entries": [
+            {
+                "title": "Evidence for Intermittent Theta Burst Transcranial Magnetic Stimulation for Dysphagia after Stroke: A Systematic Review and Meta-analysis",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39008039/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&ff=20240715203627&v=2.18.0.post9+e462414",
+                "published": "2024-07-15",
+                "full_content": "Dysphagia\n. 2024 Jul 15. doi: 10.1007/s00455-024-10729-8. Online ahead of print.\nABSTRACT\nDysphagia is the most common serious complication after stroke, with an incidence of about 37-78%, which seriously affects the independence of patients in daily life and clinical recovery. Repetitive transcranial magnetic stimulation (rTMS), as a non-invasive neuromodulation technique, is an emerging option for post-stroke dysphagia. Theta burst stimulation (TBS) is a new mode of transcranial magnetic stimulation that simulates the frequency of pulses released in the hippocampus.Intermittent theta burst stimulation (iTBS) has been shown to increase cortical excitability and improve swallowing function in patients. Our study sought to summarize existing clinical randomized controlled trials to provide evidence-based medical evidence for the clinical use of iTBS. A computer search was conducted on 4 Chinese (Chinese Biomedical Literature Database, VIP Information Resource System, CNKI, and Wanfang Medical Science) and 4 English (including Cochrane Library, Embase, PubMed, Web of Science) databases to retrieve all randomized controlled trials in Chinese and English that explored the effects of Intermittent Theta Burst Stimulation for post-stroke dysphagia. The retrieval years are from database construction to 23 November 2023. The primary outcome measure was a change in Penetration/Aspiration Scale (PAS), Standardized Swallowing Assessment (SSA) and Functional Oral Intake Scale (FOIS), Secondary outcomes included Fiberoptic Endoscopic Dysphagia Severity Scale (FEDSS), water-swallowing test (WST) etc. A meta-analysis by Standardized Mean Difference (SMD) and 95% confidence interval (CI) was performed with RevMan 5.3. we appraise risk of bias(RoB) of each study with the Cochrane RoB tool. Detailed instructions for using the Cochrane RoB tool are provided in the Cochrane Handbook for Systematic Reviews of Interventions (The Cochrane Handbook). Nine studies were obtained from eight databases after screening by inclusion and exclusion criteria, 567 patients from 9 studies were included in the meta-analysis, and one study was included in the qualitative analysis due to different control groups. Two of the nine studies had an unclear risk of bias, and four studies were at low risk. The results showed that iTBS significantly improved SSA, PAS, FOIS, and PAS scores in stroke patients compared to the control group(P < 0.05), and promoted swallowing function recovery. Our systematic review provides the first evidence of the efficacy of iTBS in improving dysphagia in stroke patients. However, the number of available studies limits the persuasiveness of the evidence and further validation by additional randomized controlled trials is needed.\nPMID:\n39008039\n| DOI:\n10.1007/s00455-024-10729-8",
+                "pmid": "39008039",
+                "title_translated": "中風後吞嚥困難適閒性Theta Burst經顱磁刺激的證據：系統性回顧與統合分析",
+                "tldr": "💡TL;DR: 紮根研究發現，間歇性Theta Burst刺激(iTBS)能有效提高中風患者的吞嚥功能，包括Penetration/Aspiration Scale、Standardized Swallowing Assessment和Functional Oral Intake Scale分數。這種療法有助於促進吞嚥功能恢復。然而，因可用研究數目有限，需要更多隨機對照試驗來驗證結果。"
+            },
             {
                 "title": "Cortical Activation during Swallowing Exercise Tasks: an fNIRS Pilot Study",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38980390/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&ff=20240714202214&v=2.18.0.post9+e462414",
@@ -1639,9 +1684,18 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240714202219&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn",
-        "feed_updated": "Mon, 15 Jul 2024 00:22:19 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_campaign=pubmed-2&utm_medium=rss&fc=20240627042910&utm_source=Other&v=2.18.0.post9+e462414&ff=20240715203632",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:36 +0000",
         "entries": [
+            {
+                "title": "Exploring Interactive Songs as a Vocabulary Input Context",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39007707/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240715203632&v=2.18.0.post9+e462414",
+                "published": "2024-07-15",
+                "full_content": "Am J Speech Lang Pathol\n. 2024 Jul 15:1-9. doi: 10.1044/2024_AJSLP-24-00054. Online ahead of print.\nABSTRACT\nPURPOSE: Interactive songs are a common shared activity for many families and within early childhood classrooms. These activities have the potential to be rich sources of vocabulary input for children with and without language impairments. However, little information is known about the how caregivers currently provide input for different types of vocabulary during these activities. The purpose of this research note is to provide preliminary information on how caregivers provide input related to verbs within an interactive song activity.\nMETHOD: Observations of caregivers engaging in song activities with their child were collected. The gestures used during the interactions were coded.\nRESULTS: The results show that, when given examples, caregivers provide gestural input both frequently and consistently.\nCONCLUSIONS: Clinical implications and future directions for exploring songs as an intervention context are discussed.\nPMID:\n39007707\n| DOI:\n10.1044/2024_AJSLP-24-00054",
+                "pmid": "39007707",
+                "title_translated": "探索互動歌曲作為詞彙輸入情境",
+                "tldr": "💡 TL;DR: 這項研究著眼於研究看護者在互動歌曲活動中如何提供與動詞相關的指導。通過觀察看護者與兒童參與歌曲活動並對其所使用的手勢進行編碼，結果顯示在給予示例時，看護者頻繁且一貫地提供手勢指導。討論了臨床意義和未來探索歌曲作為干預背景的方向。"
+            },
             {
                 "title": "Interplay of Semantic Plausibility and Word Order Canonicity in Sentence Processing of People With Aphasia Using a Verb-Final Language",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38991166/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240714202219&v=2.18.0.post9+e462414",
@@ -1835,9 +1889,18 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&v=2.18.0.post9+e462414&ff=20240714202233&fc=20240627043029&utm_medium=rss&utm_campaign=pubmed-2&utm_source=Other&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y",
-        "feed_updated": "Mon, 15 Jul 2024 00:22:33 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&ff=20240715203640&utm_medium=rss&utm_campaign=pubmed-2&fc=20240627043029&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:40 +0000",
         "entries": [
+            {
+                "title": "How Do Quantitative Videofluoroscopy Measures Differ Between People With Amyotrophic Lateral Sclerosis and Age-Matched Healthy Adults?",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39007704/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240715203640&v=2.18.0.post9+e462414",
+                "published": "2024-07-15",
+                "full_content": "J Speech Lang Hear Res\n. 2024 Jul 15:1-21. doi: 10.1044/2024_JSLHR-24-00106. Online ahead of print.\nABSTRACT\nPURPOSE: Dysphagia is a leading cause of morbidity in people with amyotrophic lateral sclerosis (PwALS). Previous videofluoroscopic swallowing studies (VFSS) in PwALS do not account for the influence of senescence. We aimed to compare swallowing in PwALS and an age- and sex-matched control group using healthy reference data to define typical and atypical values.\nMETHOD: We conducted retrospective analysis of VFSS data from 19 PwALS (10 male,\nM\nage\n= 63 years, range: 47-82) compared to control data from a cohort of healthy adults. Participants swallowed 20% w/v liquid barium from thin to extremely thick consistency. Blinded duplicate VFSS analysis using the ASPEKT (Analysis of Swallowing Physiology: Events, Kinematics and Timing) method yielded descriptive statistics for 16 quantitative VFSS parameters by consistency. Mann-Whitney\nU\ntests were used to identify significant cohort differences. Additionally, the frequencies of atypical values (in the 25% tails of the reference distribution) were tabulated by cohort and compared using odds ratios.\nRESULTS: PwALS showed increased frequencies of multiple swallows per bolus, incomplete laryngeal vestibule closure, and reduced hyoid speed across consistencies. By contrast, similar frequencies of atypical values for pharyngeal constriction and residue in both cohorts suggest that age-related changes may contribute to the presence of these features in PwALS.\nCONCLUSIONS: This analysis builds on previous descriptions of swallowing pathophysiology in amyotrophic lateral sclerosis (ALS) by clarifying the extent to which aging may account for some of the atypical findings seen in this patient population. Longitudinal studies are recommended to further differentiate the effects of ALS from age-related changes in swallowing over the course of disease progression.\nPMID:\n39007704\n| DOI:\n10.1044/2024_JSLHR-24-00106",
+                "pmid": "39007704",
+                "title_translated": "定量影像透視測量在肌萎縮性脊髓側索硬化症患者與年齡相符的健康成人之間有何不同？",
+                "tldr": "💡 TL;DR: 研究比較ALS患者和對照組吞嚥動作，結果顯示ALS患者在多次吞嚥、咽喉前庭關閉不全和舌骨運動速度方面呈現異常頻率增加。結果暗示年齡相關變化可能導致某些特徵出現在ALS患者中。建議進行長期研究以進一步區分ALS與年齡相關變化對吞嚥動作的影響。"
+            },
             {
                 "title": "Age-Related Hearing Loss, Cognitive Decline, and Social Interaction: Testing a Framework",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38995870/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240714202233&v=2.18.0.post9+e462414",
@@ -2112,9 +2175,18 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&utm_medium=rss&ff=20240714202307&utm_source=Other&utm_campaign=pubmed-2",
-        "feed_updated": "Mon, 15 Jul 2024 00:23:08 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&utm_campaign=pubmed-2&utm_source=Other&ff=20240715203643&utm_medium=rss&v=2.18.0.post9+e462414",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:44 +0000",
         "entries": [
+            {
+                "title": "Speech-in-Noise and Dichotic Auditory Training Students With Autism Spectrum Disorder",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39008496/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&ff=20240715203643&v=2.18.0.post9+e462414",
+                "published": "2024-07-15",
+                "full_content": "Lang Speech Hear Serv Sch\n. 2024 Jul 15:1-14. doi: 10.1044/2024_LSHSS-23-00168. Online ahead of print.\nABSTRACT\nPURPOSE: Individuals diagnosed with autism spectrum disorder (ASD) often exhibit auditory processing issues, including poor speech recognition in background noise and dichotic processing (integration of different stimuli presented to the two ears). Auditory training could mitigate these auditory difficulties. However, few auditory training programs have been designed to target specific listening deficits for students with ASD. The present study summarizes the development of an innovative, one-on-one, clinician-developed speech-in-noise (SIN) training program that has not been previously described and an existing dichotic auditory training program to address common auditory processing deficits in students with ASD.\nMETHOD: Twenty verbal students with ASD, ages 7-17 years, completed a one-on-one, clinician-developed SIN training program and a commercially available dichotic training program 2-3 times a week (30-45 min per session) for 12 weeks. Maximum and minimum training levels from the SIN and dichotic training programs were analyzed statistically to document changes in training level over the training period.\nRESULTS: Analyses of the pre- and posttraining data revealed significant improvements in training level for both the SIN and dichotic training programs.\nCONCLUSIONS: Overall, the proposed SIN training resulted in significant improvements in training level and may be used along with dichotic training to improve some of the most common auditory processing issues documented in verbal individuals with ASD requiring minimal support. Both types of auditory training may be implemented in one-on-one therapy in clinics and in the schools.\nPMID:\n39008496\n| DOI:\n10.1044/2024_LSHSS-23-00168",
+                "pmid": "39008496",
+                "title_translated": "自閉症光譜障礙學生的噪聲語音和雙耳分聽訓練",
+                "tldr": "💡TL;DR: 一項研究開發了一個新穎的一對一言語噪音訓練計畫，以及已有的聽覺訓練計畫，針對ASD的學生常見聽覺處理缺陷進行改善。研究中包括20名7-17歲的ASD學生進行每週2-3次的訓練，結果顯示SIN和dichotic訓練計畫均有明顯的訓練水準改善。提出的SIN訓練計畫有助於改善ASD學生的聽覺問題，可應用於臨床和學校的一對一治療中。"
+            },
             {
                 "title": "Internal State Terms in the Narratives of Bilingual Children With Developmental Language Disorder: The Role of Microstructure and Macrostructure",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/38913847/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&ff=20240627043559&v=2.18.0.post9+e462414",
@@ -2254,8 +2326,8 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&ff=20240714202308&utm_source=Other&v=2.18.0.post9+e462414&fc=20240630214159",
-        "feed_updated": "Mon, 15 Jul 2024 00:23:09 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_campaign=pubmed-2&fc=20240630214159&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240715203649",
+        "feed_updated": "Tue, 16 Jul 2024 00:36:50 +0000",
         "entries": [
             {
                 "title": "Investigating the crowding effect on letters and symbols in deaf adults",
