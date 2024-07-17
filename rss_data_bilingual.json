@@ -1,9 +1,27 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&ff=20240715203606&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&fc=20240626023002&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:07 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&ff=20240716203601&fc=20240626023002&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:02 +0000",
         "entries": [
+            {
+                "title": "Resting-State Functional Connectivity Predicts Cochlear-Implant Speech Outcomes",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39012793/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240716203601&v=2.18.0.post9+e462414",
+                "published": "2024-07-16",
+                "full_content": "Ear Hear\n. 2024 Jul 16. doi: 10.1097/AUD.0000000000001564. Online ahead of print.\nABSTRACT\nOBJECTIVES: Cochlear implants (CIs) have revolutionized hearing restoration for individuals with severe or profound hearing loss. However, a substantial and unexplained variability persists in CI outcomes, even when considering subject-specific factors such as age and the duration of deafness. In a pioneering study, we use resting-state functional near-infrared spectroscopy to predict speech-understanding outcomes before and after CI implantation. Our hypothesis centers on resting-state functional connectivity (FC) reflecting brain plasticity post-hearing loss and implantation, specifically targeting the average clustering coefficient in resting FC networks to capture variation among CI users.\nDESIGN: Twenty-three CI candidates participated in this study. Resting-state functional near-infrared spectroscopy data were collected preimplantation and at 1 month, 3 months, and 1 year postimplantation. Speech understanding performance was assessed using consonant-nucleus-consonant words in quiet and Bamford-Kowal-Bench sentences in noise 1-year postimplantation. Resting-state FC networks were constructed using regularized partial correlation, and the average clustering coefficient was measured in the signed weighted networks as a predictive measure for implantation outcomes.\nRESULTS: Our findings demonstrate a significant correlation between the average clustering coefficient in resting-state functional networks and speech understanding outcomes, both pre- and postimplantation.\nCONCLUSIONS: This approach uses an easily deployable resting-state functional brain imaging metric to predict speech-understanding outcomes in implant recipients. The results indicate that the average clustering coefficient, both pre- and postimplantation, correlates with speech understanding outcomes.\nPMID:\n39012793\n| DOI:\n10.1097/AUD.0000000000001564",
+                "pmid": "39012793",
+                "title_translated": "靜息狀態功能連接預測人工耳蝸語音成果",
+                "tldr": "💡 TL;DR:  透過休息狀態功能近紅外光譜，可以預測人工耳蝸植入手術前後的語音理解結果。研究發現休息功能網絡的平均聚集係數與語音理解結果呈現顯著相關性。這項方法使用腦部影像指標可預測人工耳蝸植入者的語音理解結果，並可了解平均聚集係數與語音理解結果的關聯性。"
+            },
+            {
+                "title": "Electrocochleography in Cochlear Implant Recipients: Correlating Maximum Response With Residual Hearing",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39010266/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240716203601&v=2.18.0.post9+e462414",
+                "published": "2024-07-16",
+                "full_content": "Ear Hear\n. 2024 Jul 16. doi: 10.1097/AUD.0000000000001546. Online ahead of print.\nABSTRACT\nOBJECTIVES: Electrocochleography (ECochG) is increasingly recognized as a biomarker for assessing inner ear function in cochlear implant patients. This study aimed to objectively determine intraoperative cochlear microphonic (CM) amplitude patterns and correlate them with residual hearing in cochlear implant recipients, addressing the limitations in current ECochG analysis that often depends on subjective visual assessment and overlook the intracochlear measurement location.\nDESIGN: In this prospective study, we investigated intraoperative pure-tone ECochG following complete electrode insertion in 31 patients. We used our previously published objective analysis method to determine the maximum CM amplitude and the associated electrode position for each electrode array. Using computed tomography, we identified electrode placement and determined the corresponding tonotopic frequency using Greenwood's function. Based on this, we calculated the tonotopic shift, that is, the difference between the stimulation frequency and the estimated frequency of the electrode with the maximum CM amplitude. We evaluated the association between CM amplitude, tonotopic shift, and preoperative hearing thresholds using linear regression analysis.\nRESULTS: CM amplitudes showed high variance, with values ranging from -1.479 to 4.495 dBµV. We found a statistically significant negative correlation () between maximum CM amplitudes and preoperative hearing thresholds. In addition, a significant association () between the tonotopic shift and preoperative hearing thresholds was observed. Tonotopic shifts of the maximum CM amplitudes occurred predominantly toward the basal direction.\nCONCLUSIONS: The combination of objective signal analysis and the consideration of intracochlear measurement locations enhances the understanding of cochlear health and overcomes the obstacles of current ECochG analysis. We could show the link between intraoperative CM amplitudes, their spatial distributions, and preoperative hearing thresholds. Consequently, our findings enable automated analysis and bear the potential to enhance specificity of ECochG, reinforcing its role as an objective biomarker for cochlear health.\nPMID:\n39010266\n| DOI:\n10.1097/AUD.0000000000001546",
+                "pmid": "39010266",
+                "title_translated": "耳蝸植入接受者的電子耳蝸圖：最大反應與剩餘聽力的相關性分析",
+                "tldr": "💡 TL;DR: 這項研究使用電內耳圖(ECochG)分析植入人工耳蝸的手術過程中所得的微小音響振幅模式，與受植入者的殘留聽覺進行相關研究。研究結果顯示微小音響振幅與手術前聽覺閾值呈負相關，並具有對聽覺閾值的頻率位移。研究結果指出物件信號分析及內耳測量位置相結合，可以增進對耳蝸健康的了解，並改善目前ECochG分析的缺陷。"
+            },
             {
                 "title": "The Role of Early Intact Auditory Experience on the Perception of Spoken Emotions, Comparing Prelingual to Postlingual Cochlear Implant Users",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39004788/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240715203606&v=2.18.0.post9+e462414",
@@ -215,8 +233,8 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&ff=20240715203614&utm_medium=rss&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2&utm_source=Other&fc=20240626023137",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:14 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2&ff=20240716203609&utm_source=Other&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:10 +0000",
         "entries": [
             {
                 "title": "Effect of stimulus duration on estimates of human cochlear tuning",
@@ -438,8 +456,8 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&fc=20240626033437&ff=20240715203621&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:22 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&fc=20240626033437&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_source=Other&ff=20240716203610",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:11 +0000",
         "entries": [
             {
                 "title": "Meaningful life changes following hearing aid use: a qualitative user perspective",
@@ -616,8 +634,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240715203622",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:23 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240626034904&utm_campaign=pubmed-2&ff=20240716203611&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:13 +0000",
         "entries": [
             {
                 "title": "Safety and Early Outcomes of Cochlear Implantation of Nucleus Devices in Infants: A Multi-Centre Study",
@@ -758,8 +776,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240715203623&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&fc=20240626035035&utm_source=Other",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:24 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240716203613&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:14 +0000",
         "entries": [
             {
                 "title": "The Relationship Between Lower Vitamin D Levels and Hearing Loss in Older Adults",
@@ -972,8 +990,8 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&ff=20240715203624&utm_campaign=pubmed-2&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_medium=rss&fc=20240626035128&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:25 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&ff=20240716203614&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&fc=20240626035128&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:14 +0000",
         "entries": [
             {
                 "title": "Transducer Variability in Speech-in-Noise Testing: Considerations Related to Stimulus Bandwidth",
@@ -1177,8 +1195,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240715203625&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&fc=20240626035220&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:27 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_medium=rss&fc=20240626035220&v=2.18.0.post9+e462414&utm_source=Other&ff=20240716203614&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:15 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1328,8 +1346,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&fc=20240626203307&utm_medium=rss&utm_campaign=pubmed-2&utm_source=Other&ff=20240715203627&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:27 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_medium=rss&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&fc=20240626203307&utm_source=Other&ff=20240716203615&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:15 +0000",
         "entries": [
             {
                 "title": "Intra-cochlear electrode position impacts the preservation of residual hearing in an animal model of cochlear implant surgery",
@@ -1479,8 +1497,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240715203627&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&utm_source=Other",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:28 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_campaign=pubmed-2&fc=20240627042757&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&ff=20240716203615&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:16 +0000",
         "entries": [
             {
                 "title": "Evidence for Intermittent Theta Burst Transcranial Magnetic Stimulation for Dysphagia after Stroke: A Systematic Review and Meta-analysis",
@@ -1684,8 +1702,8 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_campaign=pubmed-2&utm_medium=rss&fc=20240627042910&utm_source=Other&v=2.18.0.post9+e462414&ff=20240715203632",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:36 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&v=2.18.0.post9+e462414&utm_medium=rss&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240716203616&utm_source=Other&utm_campaign=pubmed-2&fc=20240627042910",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:17 +0000",
         "entries": [
             {
                 "title": "Exploring Interactive Songs as a Vocabulary Input Context",
@@ -1889,8 +1907,8 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&ff=20240715203640&utm_medium=rss&utm_campaign=pubmed-2&fc=20240627043029&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:40 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&ff=20240716203617&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_source=Other&fc=20240627043029&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:17 +0000",
         "entries": [
             {
                 "title": "How Do Quantitative Videofluoroscopy Measures Differ Between People With Amyotrophic Lateral Sclerosis and Age-Matched Healthy Adults?",
@@ -2175,8 +2193,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&utm_campaign=pubmed-2&utm_source=Other&ff=20240715203643&utm_medium=rss&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:44 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_campaign=pubmed-2&utm_source=Other&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&ff=20240716203618&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:18 +0000",
         "entries": [
             {
                 "title": "Speech-in-Noise and Dichotic Auditory Training Students With Autism Spectrum Disorder",
@@ -2326,8 +2344,8 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_campaign=pubmed-2&fc=20240630214159&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240715203649",
-        "feed_updated": "Tue, 16 Jul 2024 00:36:50 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&fc=20240630214159&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&ff=20240716203618",
+        "feed_updated": "Wed, 17 Jul 2024 00:36:19 +0000",
         "entries": [
             {
                 "title": "Investigating the crowding effect on letters and symbols in deaf adults",
