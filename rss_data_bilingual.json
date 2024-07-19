@@ -1,8 +1,8 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&ff=20240717203529&utm_medium=rss&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&v=2.18.0.post9+e462414&utm_source=Other&fc=20240626023002&utm_campaign=pubmed-2",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:30 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_source=Other&ff=20240718203546",
+        "feed_updated": "Fri, 19 Jul 2024 00:35:46 +0000",
         "entries": [
             {
                 "title": "Resting-State Functional Connectivity Predicts Cochlear-Implant Speech Outcomes",
@@ -233,9 +233,18 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_medium=rss&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240717203530&fc=20240626023137",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:31 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&fc=20240626023137&utm_medium=rss&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2&ff=20240718203547&utm_source=Other",
+        "feed_updated": "Fri, 19 Jul 2024 00:35:47 +0000",
         "entries": [
+            {
+                "title": "Neurocognitive outcomes in young adults with cochlear implants: The role of early language access and crossmodal plasticity",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39018768/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240718203547&v=2.18.0.post9+e462414",
+                "published": "2024-07-17",
+                "full_content": "Hear Res\n. 2024 Jul 3;451:109074. doi: 10.1016/j.heares.2024.109074. Online ahead of print.\nABSTRACT\nMany children with profound hearing loss have received cochlear implants (CI) to help restore some sense of hearing. There is, however, limited research on long-term neurocognitive outcomes in young adults who have grown up hearing through a CI. This study compared the cognitive outcomes of early-implanted (n = 20) and late-implanted (n = 21) young adult CI users, and typically hearing (TH) controls (n=56), all of whom were enrolled in college. Cognitive fluidity, nonverbal intelligence, and American Sign Language (ASL) comprehension were assessed, revealing no significant differences in cognition and nonverbal intelligence between the early and late-implanted groups. However, there was a difference in ASL comprehension, with the late-implanted group having significantly higher ASL comprehension. Although young adult CI users showed significantly lower scores in a working memory and processing speed task than TH age-matched controls, there were no significant differences in tasks involving executive function shifting, inhibitory control, and episodic memory between young adult CI and young adult TH participants. In an exploratory analysis of a subset of CI participants (n = 17) in whom we were able to examine crossmodal plasticity, we saw greater evidence of crossmodal recruitment from the visual system in late-implanted compared with early-implanted CI young adults. However, cortical visual evoked potential latency biomarkers of crossmodal plasticity were not correlated with cognitive measures or ASL comprehension. The results suggest that in the late-implanted CI users, early access to sign language may have served as a scaffold for appropriate cognitive development, while in the early-implanted group early access to oral language benefited cognitive development. Furthermore, our results suggest that the persistence of crossmodal neuroplasticity into adulthood does not necessarily impact cognitive development. In conclusion, early access to language - spoken or signed - may be important for cognitive development, with no observable effect of crossmodal plasticity on cognitive outcomes.\nPMID:\n39018768\n| DOI:\n10.1016/j.heares.2024.109074",
+                "pmid": "39018768",
+                "title_translated": "青年人工耳蝸使用者的神經認知結果：早期語言接觸與跨模態可塑性的角色",
+                "tldr": "💡 TL;DR: 這項研究比較了早期植入（n = 20）和晚期植入（n = 21）的年輕成人耳蝸植入裝置（CI）使用者的認知結果，發現在認知和非語言智力方面兩組間無顯著差異。然而，晚期植入組在美國手語（ASL）理解方面顯著較高。研究指出，早期接觸語言（口語或手語）對認知發展至關重要，而交叉感官神經可塑性似乎不影響認知結果。"
+            },
             {
                 "title": "Effect of stimulus duration on estimates of human cochlear tuning",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39004016/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240715203614&v=2.18.0.post9+e462414",
@@ -456,8 +465,8 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&ff=20240717203531&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&fc=20240626033437",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:31 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&fc=20240626033437&utm_source=Other&utm_medium=rss&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&ff=20240718203557&utm_campaign=pubmed-2",
+        "feed_updated": "Fri, 19 Jul 2024 00:35:57 +0000",
         "entries": [
             {
                 "title": "Meaningful life changes following hearing aid use: a qualitative user perspective",
@@ -634,8 +643,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240717203531&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&v=2.18.0.post9+e462414&fc=20240626034904&utm_source=Other",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:32 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_medium=rss&v=2.18.0.post9+e462414&fc=20240626034904&utm_source=Other&ff=20240718203558&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_campaign=pubmed-2",
+        "feed_updated": "Fri, 19 Jul 2024 00:35:59 +0000",
         "entries": [
             {
                 "title": "Safety and Early Outcomes of Cochlear Implantation of Nucleus Devices in Infants: A Multi-Centre Study",
@@ -776,8 +785,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_source=Other&fc=20240626035035&utm_medium=rss&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240717203532&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:33 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_medium=rss&ff=20240718203559&utm_campaign=pubmed-2",
+        "feed_updated": "Fri, 19 Jul 2024 00:35:59 +0000",
         "entries": [
             {
                 "title": "The Relationship Between Lower Vitamin D Levels and Hearing Loss in Older Adults",
@@ -990,9 +999,18 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&v=2.18.0.post9+e462414&fc=20240626035128&utm_source=Other&utm_medium=rss&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&ff=20240717203534&utm_campaign=pubmed-2",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:34 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240718203600&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:00 +0000",
         "entries": [
+            {
+                "title": "Validation of a Bluetooth Self-Fitting Device for People With Mild-to-Moderate Hearing Loss in Quiet or Noisy Environments",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39024518/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240718203600&v=2.18.0.post9+e462414",
+                "published": "2024-07-18",
+                "full_content": "Am J Audiol\n. 2024 Jul 18:1-13. doi: 10.1044/2024_AJA-23-00230. Online ahead of print.\nABSTRACT\nPURPOSE: The purpose of this study was to evaluate the benefits of a Bluetooth self-fitting device using an in situ hearing screening test and self-fitting processes.\nMETHOD: Thirty Mandarin-speaking individuals (16 men and 14 women) with mild-to-moderate hearing loss participated in this study. The hearing screening test was conducted using neckband earphones of a Bluetooth self-fitting device controlled by a smartphone app. The hearing screening tests were compared with the pure-tone audiometry in an audiometric booth. The amplification benefits of the self-fitting program-aided condition were evaluated and compared with those of unaided and preset program-aided conditions using the Mandarin Hearing in Noise Test (MHINT) and questionnaires.\nRESULTS: The pure-tone audiometry and hearing screening test results exhibited strong positive correlations at all test frequencies. In the environment with 90° noise, the sentence reception thresholds (SRTs) obtained for the self-fitting program-aided condition were significantly lower (\np\n= .032) than those obtained for the unaided condition, whereas no significant difference was observed between the preset program-aided and the unaided conditions. Moreover, the participants' satisfaction ratings for the devices were consistent with their MHINT results, with a strong positive correlation observed between satisfaction with self-fitting and user satisfaction in smartphone app's control, functionality, and learning. Younger participants were significantly more satisfied in learning to use the app.\nCONCLUSIONS: Bluetooth self-fitting devices can be used for simplified in situ hearing screenings with a sensitivity of 90.4%. The satisfaction ratings and improvements in SRTs indicate significant clinical benefits of the self-fitting program compared with the preset program, particularly in the 90°-noise environments.\nPMID:\n39024518\n| DOI:\n10.1044/2024_AJA-23-00230",
+                "pmid": "39024518",
+                "title_translated": "在安靜或嘈雜環境中針對輕度至中度聽力損失者的藍牙自適應裝置驗證",
+                "tldr": "💡 TL;DR: 這項研究評估了藍牙自配戴裝置在現場聽力篩檢和自行配戴過程中的效益。30位普通話使用者參與了這項研究，結果顯示藍牙自裝置的聽力篩檢與純音聽力測試之間有強烈正相關。自配戴程序輔助條件的放大效益明顯優於未配戴條件，而與預設程序輔助條件之間則無明顯差異。總結指出，藍牙自配戴裝置可用於簡化現場聽力篩檢，並在特定環境下提供顯著的臨床效益。"
+            },
             {
                 "title": "Prognostic Value of Electrophysiological and MRI Findings for Pediatric Cochlear Implant Outcomes: A Systematic Review",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39018270/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240717203534&v=2.18.0.post9+e462414",
@@ -1204,8 +1222,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_source=Other&fc=20240626035220&utm_medium=rss&ff=20240717203539&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:40 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&fc=20240626035220&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240718203605&utm_source=Other",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:05 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1355,8 +1373,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_campaign=pubmed-2&fc=20240626203307&utm_source=Other&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240717203540&v=2.18.0.post9+e462414&utm_medium=rss",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:40 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&fc=20240626203307&v=2.18.0.post9+e462414&utm_medium=rss&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240718203605&utm_source=Other&utm_campaign=pubmed-2",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:06 +0000",
         "entries": [
             {
                 "title": "Intra-cochlear electrode position impacts the preservation of residual hearing in an animal model of cochlear implant surgery",
@@ -1506,8 +1524,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_campaign=pubmed-2&fc=20240627042757&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&ff=20240717203540&v=2.18.0.post9+e462414&utm_medium=rss",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:41 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&ff=20240718203606",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:07 +0000",
         "entries": [
             {
                 "title": "Pharyngeal Residues Following Swallowing of Pureed Diets Thickened with a Gelling Agent or a Xanthan Gum-Based Thickener in Elderly Patients with Dysphagia",
@@ -1720,8 +1738,8 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_campaign=pubmed-2&utm_medium=rss&ff=20240717203544&v=2.18.0.post9+e462414&utm_source=Other&fc=20240627042910&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:45 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240718203607&fc=20240627042910",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:08 +0000",
         "entries": [
             {
                 "title": "Exploring Interactive Songs as a Vocabulary Input Context",
@@ -1925,9 +1943,18 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_medium=rss&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_source=Other&utm_campaign=pubmed-2&ff=20240717203545&fc=20240627043029&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 18 Jul 2024 00:35:46 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_medium=rss&ff=20240718203608&v=2.18.0.post9+e462414&utm_source=Other&fc=20240627043029&utm_campaign=pubmed-2",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:09 +0000",
         "entries": [
+            {
+                "title": "Implicit and Explicit Sequence Learning in Adults With Developmental Language Disorder",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39024517/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240718203608&v=2.18.0.post9+e462414",
+                "published": "2024-07-18",
+                "full_content": "J Speech Lang Hear Res\n. 2024 Jul 18:1-15. doi: 10.1044/2024_JSLHR-23-00551. Online ahead of print.\nABSTRACT\nPURPOSE: Developmental language disorder (DLD) is a neurodevelopmental disorder that impacts approximately 7% of the population and is characterized by unexplained deficits in expressive and/or receptive components of language. A common procedural learning task, serial reaction time (SRT), has been used to develop models of the basis of DLD. However, paradigms involve differing levels of implicit and explicit learning during this task, muddying interpretations of the data. Here, we tested adults with DLD on implicit and explicit SRT tasks to better understand implicit and explicit procedural learning in this population. We hypothesized that adults with DLD would demonstrate reduced learning on only the implicit SRT task, as alternate explicit neural mechanisms could lead to equivalent performance on the explicit task.\nMETHOD: Fifty participants (25 with DLD and 25 with typical language) completed implicit and explicit SRT tasks, measuring their ability to learn visually presented 10-element sequences. Group differences were evaluated on sequence learning, error rates, and explicit recall of the sequence after learning.\nRESULTS: Sequence learning was the same between the groups on both tasks. However, individuals with DLD showed increased errors and significantly worse recall of the explicitly learned sequence.\nCONCLUSIONS: Results suggest that sequence learning may be intact in this population, while aspects of explicit learning and motoric responses are impaired. Results are interpreted in light of a neurobiological model of DLD.\nSUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.26210651.\nPMID:\n39024517\n| DOI:\n10.1044/2024_JSLHR-23-00551",
+                "pmid": "39024517",
+                "title_translated": "發展性語言障礙成人的隱性和顯性序列學習",
+                "tldr": "💡 TL;DR: 本研究旨在了解特定人群發展性語言障礙（DLD）在隱性和顯性學習中的表現。使用了序列反應時間（SRT）任務，研究發現DLD成年人在顯性學習方面表現差，但在隱性學習上與一般人無異。這表明DLD患者存在學習序列的能力，但在顯性學習和動作反應方面存在障礙。"
+            },
             {
                 "title": "Adolescent-Centered mHealth Applications in a Collaborative Care Model: A Virtual Focus Group Study With Audiologists",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39018271/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240717203545&v=2.18.0.post9+e462414",
@@ -2265,8 +2292,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240717203629&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&fc=20240627043108&utm_source=Other&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY",
-        "feed_updated": "Thu, 18 Jul 2024 00:36:30 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&fc=20240627043108&utm_source=Other&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240718203612&utm_campaign=pubmed-2&utm_medium=rss",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:13 +0000",
         "entries": [
             {
                 "title": "Speech-in-Noise and Dichotic Auditory Training Students With Autism Spectrum Disorder",
@@ -2416,8 +2443,8 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240717203630&utm_source=Other&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_campaign=pubmed-2",
-        "feed_updated": "Thu, 18 Jul 2024 00:36:30 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&ff=20240718203613&fc=20240630214159&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S",
+        "feed_updated": "Fri, 19 Jul 2024 00:36:14 +0000",
         "entries": [
             {
                 "title": "Investigating the crowding effect on letters and symbols in deaf adults",
