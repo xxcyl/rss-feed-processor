@@ -1,8 +1,8 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&ff=20240720203922&fc=20240626023002&utm_campaign=pubmed-2",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:23 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_source=Other&v=2.18.0.post9+e462414&fc=20240626023002&ff=20240721203736&utm_medium=rss&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_campaign=pubmed-2",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:37 +0000",
         "entries": [
             {
                 "title": "Resting-State Functional Connectivity Predicts Cochlear-Implant Speech Outcomes",
@@ -233,9 +233,18 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&ff=20240720203923&v=2.18.0.post9+e462414&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&utm_medium=rss&utm_campaign=pubmed-2",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:24 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&utm_medium=rss&ff=20240721203737&utm_campaign=pubmed-2",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:38 +0000",
         "entries": [
+            {
+                "title": "The temporal mismatch across listening sides affects cortical auditory evoked responses in normal hearing listeners and cochlear implant users with contralateral acoustic hearing",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39032483/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240721203737&v=2.18.0.post9+e462414",
+                "published": "2024-07-20",
+                "full_content": "Hear Res\n. 2024 Jul 17;451:109088. doi: 10.1016/j.heares.2024.109088. Online ahead of print.\nABSTRACT\nCombining a cochlear implant with contralateral acoustic hearing typically enhances speech understanding, although this improvement varies among CI users and can lead to an interference effect. This variability may be associated with the effectiveness of the integration between electric and acoustic stimulation, which might be affected by the temporal mismatch between the two listening sides. Finding methods to compensate for the temporal mismatch might contribute to the optimal adjustment of bimodal devices and to improve hearing in CI users with contralateral acoustic hearing. The current study investigates cortical auditory evoked potentials (CAEPs) in normal hearing listeners (NH) and CI users with contralateral acoustic hearing. In NH, the amplitude of the N1 peak and the maximum phase locking value (PLV) were analyzed under monaural, binaural, and binaural temporally mismatched conditions. In CI users, CAEPs were measured when listening with CI only (CIS_only), acoustically only (AS_only) and with both sides together (CIS+AS). When listening with CIS+AS, various interaural delays were introduced between the electric and acoustic stimuli. In NH listeners, interaural temporal mismatch resulted in decreased N1 amplitude and PLV. Moreover, PLV is suggested as a more sensitive measure to investigate the integration of information between the two listening sides. CI users showed varied N1 latencies between the AS_only and CIS_only listening conditions, with increased N1 amplitude when the temporal mismatch was compensated. A tendency towards increased PLV was also observed, however, to a lesser extent than in NH listeners, suggesting a limited integration between electric and acoustic stimulation. This work highlights the potential of CAEPs measurement to investigate cortical processing of the information between two listening sides in NH and bimodal CI users.\nPMID:\n39032483\n| DOI:\n10.1016/j.heares.2024.109088",
+                "pmid": "39032483",
+                "title_translated": "不同聽側之間的時間錯配影響正常聽覺者及對側聲學聽覺人工耳蝸使用者的皮層聽覺誘發反應",
+                "tldr": "💡TL;DR: 本研究探討在正常聽力聽者和具有對側聽覺的植入式人工耳蝸使用者中的聽覺誘發電位(CAEPs)，發現在兩側聽覺之間的時間錯置會降低N1振幅和相位鎖定值(PLV)。對於CI使用者，當對電和聲刺激之間引入不同的耳聽延遲時，調節時間錯置可以提高N1振幅和PLV，但CI使用者對於電和聲刺激之間的融合度較低。因此，CAEPs的測量潛力凸顯在研究NH和雙模CI使用者之間兩側聽覺信息的皮質處理方面。"
+            },
             {
                 "title": "Neurocognitive outcomes in young adults with cochlear implants: The role of early language access and crossmodal plasticity",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39018768/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240718203547&v=2.18.0.post9+e462414",
@@ -465,9 +474,27 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&utm_source=Other&ff=20240720203924&fc=20240626033437",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:24 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&ff=20240721203743&utm_campaign=pubmed-2&fc=20240626033437",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:43 +0000",
         "entries": [
+            {
+                "title": "Revisiting the transient-evoked otoacoustic emissions passing criteria used for newborn hearing screening",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39033358/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240721203743&v=2.18.0.post9+e462414",
+                "published": "2024-07-21",
+                "full_content": "Int J Audiol\n. 2024 Jul 21:1-10. doi: 10.1080/14992027.2024.2378808. Online ahead of print.\nABSTRACT\nOBJECTIVE: To assess transient-evoked otoacoustic emissions (TEOAE) data from 15 years of a newborn hearing screening program and evaluate how well various criteria separate ears with and without hearing loss.\nDESIGN: Retrospective review of TEOAE data using logistic regression, receiver operating characteristic curves, and cumulative percentage graphs.Study sample: Children with hearing loss who passed TEOAE screening as a newborn were compared to children who failed TEOAE screening and normal hearing children who either passed or failed. Exclusions were applied for acquired hearing loss or auditory neuropathy.\nRESULTS: Ears with hearing loss that passed screening had significantly lower TEOAE response levels compared to ears with normal hearing. Noise levels, test times, and number of sweeps were also lower. Most of these ears had mild hearing loss. Logistic regression results showed that high-frequency TEOAE response level is the best predictor of hearing loss. A multivariate \"logit\" score calculated from the regression was the best indicator for separating ears with hearing loss from ears with normal hearing.\nCONCLUSIONS: TEOAE response levels or an algorithm which incorporates logit scores should be considered as a minimum passing criterion to increase the sensitivity of the TEOAE screening.\nPMID:\n39033358\n| DOI:\n10.1080/14992027.2024.2378808",
+                "pmid": "39033358",
+                "title_translated": "重新檢視新生兒聽力篩查中瞬發性耳聲傳導反應的通過標準",
+                "tldr": "💡 TL;DR: 15年的新生兒聽力篩檢計畫研究TEOAE數據，發現高頻TEOAE反應是最佳的聽力損失預測因素。研究建議將TEOAE反應水平或logit分數納入最低通過標準，以提高TEOAE篩檢的敏感度。"
+            },
+            {
+                "title": "Focusing on positive listening experiences improves hearing aid outcomes in first-time hearing aid users: a randomized controlled trial",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39033349/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240721203743&v=2.18.0.post9+e462414",
+                "published": "2024-07-21",
+                "full_content": "Int J Audiol\n. 2024 Jul 21:1-11. doi: 10.1080/14992027.2024.2379533. Online ahead of print.\nABSTRACT\nOBJECTIVE: The objective of this study was to investigate whether positive focus (PF), an intervention that asks hearing aid users to focus on positive listening experiences, improves hearing aid outcomes for first-time hearing aid users.\nDESIGN: The participants were randomised into a control or PF group. They were fitted with hearing aids and followed for six months after fitting. The PF group was asked to report positive listening experiences in their daily life via an app. Participants in both groups were periodically prompted by the app to answer questionnaires about hearing aid satisfaction and benefit. Two follow-up visits at approximately one and six months were performed.\nSTUDY SAMPLE: 20 adult first-time hearing aid users in the control and 18 in the PF group.\nRESULTS: Hearing aid satisfaction and benefit scores were significantly better in the PF group, already at two weeks and throughout the six months. In the PF group, the hearing aid outcomes were positively correlated with the number of submitted positive reports.\nCONCLUSIONS: These results point to the importance of asking first-time hearing aid users to focus on positive listening experiences and to reflect upon them. This can lead to improved short- and long-term hearing aid outcomes.\nPMID:\n39033349\n| DOI:\n10.1080/14992027.2024.2379533",
+                "pmid": "39033349",
+                "title_translated": "專注於正面聆聽體驗提升初次助聽器使用者的助聽效果：一項隨機對照試驗",
+                "tldr": "💡 TL;DR: 本研究旨在探討正向焦點（PF）干預是否能改善首次使用助聽器的成果。研究使用隨機分組，要求PF組的參與者通過應用程式報告正向聆聽體驗。結果顯示，PF組在助聽器滿意度和效益方面表現明顯更好，並且這些成果與提交的正向報告數呈正相關。"
+            },
             {
                 "title": "Prevalence and predictors of problematic tinnitus",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39030727/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240720203924&v=2.18.0.post9+e462414",
@@ -661,8 +688,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240720203931&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240626034904&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_source=Other&utm_campaign=pubmed-2",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:31 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_source=Other&fc=20240626034904&ff=20240721203749&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:50 +0000",
         "entries": [
             {
                 "title": "Safety and Early Outcomes of Cochlear Implantation of Nucleus Devices in Infants: A Multi-Centre Study",
@@ -803,8 +830,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_source=Other&fc=20240626035035&utm_medium=rss&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240720203932&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:32 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&utm_medium=rss&ff=20240721203750&v=2.18.0.post9+e462414&utm_source=Other&utm_campaign=pubmed-2",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:51 +0000",
         "entries": [
             {
                 "title": "The Relationship Between Lower Vitamin D Levels and Hearing Loss in Older Adults",
@@ -1017,8 +1044,8 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_campaign=pubmed-2&ff=20240720203933&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:33 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_campaign=pubmed-2&ff=20240721203752&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:52 +0000",
         "entries": [
             {
                 "title": "Validation of a Bluetooth Self-Fitting Device for People With Mild-to-Moderate Hearing Loss in Quiet or Noisy Environments",
@@ -1240,8 +1267,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240720203934&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_campaign=pubmed-2&fc=20240626035220",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:35 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240721203752&fc=20240626035220&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:53 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1391,8 +1418,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_source=Other&v=2.18.0.post9+e462414&fc=20240626203307&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240720203935",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:36 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&ff=20240721203754&fc=20240626203307&utm_source=Other",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:54 +0000",
         "entries": [
             {
                 "title": "Intra-cochlear electrode position impacts the preservation of residual hearing in an animal model of cochlear implant surgery",
@@ -1542,8 +1569,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&ff=20240720203936&fc=20240627042757&v=2.18.0.post9+e462414&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:37 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&v=2.18.0.post9+e462414&utm_medium=rss&ff=20240721203754&utm_campaign=pubmed-2&fc=20240627042757&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:55 +0000",
         "entries": [
             {
                 "title": "Pharyngeal Residues Following Swallowing of Pureed Diets Thickened with a Gelling Agent or a Xanthan Gum-Based Thickener in Elderly Patients with Dysphagia",
@@ -1756,8 +1783,8 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_source=Other&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240720203937&utm_medium=rss&fc=20240627042910&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:38 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240721203756&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss&fc=20240627042910",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:56 +0000",
         "entries": [
             {
                 "title": "Video Modeling to Support Social Communication Goals of Autistic Adults: A Tutorial",
@@ -1979,8 +2006,8 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&fc=20240627043029&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240720203938",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:39 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&fc=20240627043029&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240721203757",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:57 +0000",
         "entries": [
             {
                 "title": "Implicit and Explicit Sequence Learning in Adults With Developmental Language Disorder",
@@ -2328,8 +2355,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&fc=20240627043108&utm_source=Other&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240720203939&utm_campaign=pubmed-2&utm_medium=rss",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:40 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240721203758&fc=20240627043108",
+        "feed_updated": "Mon, 22 Jul 2024 00:37:59 +0000",
         "entries": [
             {
                 "title": "Caregivers' Perceptions of COVID-19 Educational Disruptions on Children With Developmental Language Disorder and Typically Developing Peers",
@@ -2488,8 +2515,8 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&fc=20240630214159&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_source=Other&utm_campaign=pubmed-2&ff=20240720203940&v=2.18.0.post9+e462414",
-        "feed_updated": "Sun, 21 Jul 2024 00:39:41 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240721203759&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Mon, 22 Jul 2024 00:38:00 +0000",
         "entries": [
             {
                 "title": "Investigating the crowding effect on letters and symbols in deaf adults",
