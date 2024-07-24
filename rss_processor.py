@@ -33,7 +33,7 @@ def translate_title(text, target_language="zh-TW"):
     """使用OpenAI API翻譯文章標題"""
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": f"""You are a translator specializing in academic article titles. Translate the following title to {target_language}. Ensure the translation is concise and accurate, maintaining any technical terms. Use Traditional Chinese (Taiwan) and avoid using Simplified Chinese."""},
                 {"role": "user", "content": text}
@@ -49,7 +49,7 @@ def generate_tldr(text, target_language="zh-TW"):
     try:
         preprocessed_text = preprocess_content(text)
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": f"""You are an expert in summarizing academic research. Create an extremely concise TL;DR (Too Long; Didn't Read) summary in {target_language} of the following academic abstract. Follow these guidelines:
 
