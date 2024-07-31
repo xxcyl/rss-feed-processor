@@ -1,8 +1,8 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&ff=20240729203613&fc=20240626023002&utm_medium=rss&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:13 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&v=2.18.0.post9+e462414&ff=20240730202938&utm_source=Other&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_medium=rss",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:38 +0000",
         "entries": [
             {
                 "title": "The Inter-Phase Gap Offset Effect as a Measure of Neural Health in Cochlear Implant Users With Residual Acoustic Hearing",
@@ -287,8 +287,8 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&ff=20240729203613&utm_medium=rss&fc=20240626023137&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:14 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&ff=20240730202939&utm_source=Other&utm_medium=rss&v=2.18.0.post9+e462414&fc=20240626023137",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:39 +0000",
         "entries": [
             {
                 "title": "A new mutation of Sgms1 causes gradual hearing loss associated with a reduced endocochlear potential",
@@ -564,9 +564,18 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_source=Other&ff=20240729203614&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&fc=20240626033437&utm_medium=rss",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:14 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&ff=20240730202939&fc=20240626033437&utm_source=Other&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:40 +0000",
         "entries": [
+            {
+                "title": "Similar performance in sound localisation with unsynchronised and synchronised automatic gain controls in bilateral cochlear implant recipients",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39075948/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240730202939&v=2.18.0.post9+e462414",
+                "published": "2024-07-30",
+                "full_content": "Int J Audiol\n. 2024 Jul 29:1-7. doi: 10.1080/14992027.2024.2383700. Online ahead of print.\nABSTRACT\nOBJECTIVE: One proposed method to improve sound localisation for bilateral cochlear implant (BiCI) users is to synchronise the automatic gain control (AGC) of both audio processors. In this study we tested whether AGC synchronisation in a dual-loop front-end processing scheme with a 3:1 compression ratio improves sound localisation acuity.\nDESIGN: Source identification in the frontal hemifield was tested in in an anechoic chamber as a function of (roving) presentation level. Three different methods of AGC synchronisation were compared to the standard unsynchronised approach. Both root mean square error (RMSE) and signed bias were calculated to evaluate sound localisation in the horizontal plane.\nSTUDY SAMPLE: Six BiCI users.\nRESULTS: None of the three AGC synchronisation methods yielded significant improvements in either localisation error or bias, neither across presentation levels nor for individual presentation levels. For synchronised AGC, the pooled mean (standard deviation) localisation error of the three synchronisation methods was 24.7 (5.8) degrees RMSE, for unsynchronised AGC it was 27.4 (7.5) degrees. The localisation bias was 5.1 (5.5) degrees for synchronised AGC and 5.0 (3.8) for unsynchronised.\nCONCLUSIONS: These findings do not support the hypothesis that the tested AGC synchronisation configurations improves localisation acuity in bilateral users of MED-EL cochlear implants.\nPMID:\n39075948\n| DOI:\n10.1080/14992027.2024.2383700",
+                "pmid": "39075948",
+                "title_translated": "在雙側人工耳蝸受者中，無同步與同步自動增益控制的聲音定位性能相似",
+                "tldr": "💡 TL;DR: 本研究旨在檢驗雙耳人工耳蝸使用者中，自動增益控制（AGC）同步是否能改善聲音定位準確性。結果顯示，三種AGC同步方法均未在聲音定位誤差或偏差上顯著優於未同步的方法。研究結果不支持AGC同步能改善MED-EL人工耳蝸使用者定位準確性的假設。"
+            },
             {
                 "title": "Neural markers associated with improved tinnitus perception after tinnitus retraining therapy",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39037049/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240722203621&v=2.18.0.post9+e462414",
@@ -787,8 +796,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&fc=20240626034904&ff=20240729203614&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_source=Other",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:15 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&fc=20240626034904&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240730202942&utm_source=Other",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:43 +0000",
         "entries": [
             {
                 "title": "Speech-Identification During Standing as a Multitasking Challenge for Young, Middle-Aged and Older Adults",
@@ -965,8 +974,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&v=2.18.0.post9+e462414&utm_medium=rss&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240729203616&utm_campaign=pubmed-2&utm_source=Other&fc=20240626035035",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:16 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_source=Other&ff=20240730202943&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&fc=20240626035035",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:44 +0000",
         "entries": [
             {
                 "title": "Improving Accuracy and Reliability of Hearing Tests: Measurement Standards for Audiometric Devices",
@@ -1188,8 +1197,8 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_medium=rss&fc=20240626035128&utm_source=Other&ff=20240729203616&v=2.18.0.post9+e462414&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_campaign=pubmed-2",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:17 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&ff=20240730202944&utm_source=Other&v=2.18.0.post9+e462414&fc=20240626035128&utm_campaign=pubmed-2&utm_medium=rss",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:45 +0000",
         "entries": [
             {
                 "title": "Validation of the Pediatric Spatial Hearing Questionnaire",
@@ -1438,8 +1447,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_campaign=pubmed-2&ff=20240729203617&utm_medium=rss&v=2.18.0.post9+e462414&fc=20240626035220&utm_source=Other&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:18 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_source=Other&ff=20240730202945&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&fc=20240626035220",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:46 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1589,8 +1598,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_medium=rss&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240729203618&utm_source=Other&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&fc=20240626203307",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:19 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240730202946&fc=20240626203307&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:47 +0000",
         "entries": [
             {
                 "title": "Residual dizziness characteristics of idiopathic sudden sensorineural hearing loss patients with benign paroxysmal positional vertigo",
@@ -1749,8 +1758,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&utm_medium=rss&ff=20240729203622",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:23 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&ff=20240730202952&fc=20240627042757&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:53 +0000",
         "entries": [
             {
                 "title": "Prognostic Factors Associated with Post-Stroke Dysphagia in Intracerebral Hemorrhage Patients",
@@ -1990,8 +1999,8 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_source=Other&fc=20240627042910&utm_medium=rss&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&ff=20240729203624&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:25 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240627042910&utm_source=Other&ff=20240730202953&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:54 +0000",
         "entries": [
             {
                 "title": "Self-Report of Changes in Cognitive-Communication Function and Social Engagement Among Adults With Cancer-Related Cognitive Impairment",
@@ -2249,8 +2258,8 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&ff=20240729203632&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss&fc=20240627043029&utm_campaign=pubmed-2",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:33 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&fc=20240627043029&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_medium=rss&ff=20240730202954&v=2.18.0.post9+e462414&utm_source=Other",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:55 +0000",
         "entries": [
             {
                 "title": "The Emergence of Verb Patterns in Arabic in Children With Developmental Language Disorder Compared to Children With Typical Development",
@@ -2661,8 +2670,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_campaign=pubmed-2&ff=20240729203633&fc=20240627043108&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:34 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=Other&ff=20240730202955&fc=20240627043108&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:55 +0000",
         "entries": [
             {
                 "title": "Caregivers' Perceptions of COVID-19 Educational Disruptions on Children With Developmental Language Disorder and Typically Developing Peers",
@@ -2821,8 +2830,8 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&ff=20240729203635&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_source=Other&fc=20240630214159",
-        "feed_updated": "Tue, 30 Jul 2024 00:36:37 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other&ff=20240730202956&utm_campaign=pubmed-2&fc=20240630214159",
+        "feed_updated": "Wed, 31 Jul 2024 00:29:58 +0000",
         "entries": [
             {
                 "title": "Associations between vicarious racism and psychoactive substance use depend on strength of ethnic identity",
