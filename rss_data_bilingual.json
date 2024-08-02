@@ -1,9 +1,27 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414&ff=20240731204003&utm_medium=rss",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:04 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_campaign=pubmed-2&ff=20240801203558&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Fri, 02 Aug 2024 00:35:59 +0000",
         "entries": [
+            {
+                "title": "A Preliminary Data Visualization Approach to Vestibulocochlear Diseases Based on Multiple Scalar Dimensions",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39086001/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240801203558&v=2.18.0.post9+e462414",
+                "published": "2024-08-01",
+                "full_content": "Ear Hear\n. 2024 Aug 1. doi: 10.1097/AUD.0000000000001557. Online ahead of print.\nABSTRACT\nFor vestibulocochlear diseases, traditional clinical history-taking, and the terminology of widely taught nosologic taxonomy, have misleading implications that can lead to errors in diagnosis and therefore in treatment. In the interest of facilitating differential diagnosis while simultaneously recognizing that many of these diseases may not be as discrete as textbooks suggest, we propose a data visualization approach focusing on several continuous scalar dimensions in the domains of anatomy, physiology, and chronology. We illustrate the application of this approach to several categories of clinical presentation.\nPMID:\n39086001\n| DOI:\n10.1097/AUD.0000000000001557",
+                "pmid": "39086001",
+                "title_translated": "基於多個標量維度的前期數據視覺化方法對於前庭耳聾疾病的研究",
+                "tldr": "💡 TL;DR: 本研究針對前庭耳聾疾病，指出傳統病史收集和診斷術語可能導致誤診和錯誤治療。我們提出一種資料視覺化方法，強調解剖、生理和時間等連續標量的維度，以促進鑑別診斷。研究展示了此方法在多個臨床表現類別中的應用。"
+            },
+            {
+                "title": "Auditory Steady-State Responses: Multiplexed Amplitude Modulation Frequencies to Reduce Recording Time",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39085997/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240801203558&v=2.18.0.post9+e462414",
+                "published": "2024-08-01",
+                "full_content": "Ear Hear\n. 2024 Aug 1. doi: 10.1097/AUD.0000000000001552. Online ahead of print.\nABSTRACT\nOBJECTIVES: This study investigated the efficiency of a multiplexed amplitude-modulated (AM) stimulus in eliciting auditory steady-state responses. The multiplexed AM stimulus was created by simultaneously modulating speech-shaped noise with three frequencies chosen to elicit different neural generators: 3.1, 40.1, and 102.1 Hz. For comparison, a single AM stimulus was created for each of these frequencies, resulting in three single AM conditions and one multiplex AM condition.\nDESIGN: Twenty-two bilaterally normal-hearing participants (18 females) listened for 8 minutes to each type of stimuli. The analysis compared the signal to noise ratios (SNRs) and amplitudes of the evoked responses to the single and multiplexed conditions.\nRESULTS: The results revealed that the SNRs elicited by single AM conditions were, on average, 1.61 dB higher than those evoked by the multiplexed AM condition ( p < 0.05). The single conditions consistently produced a significantly higher SNR when examining various stimulus durations ranging from 1 to 8 minutes. Despite these SNR differences, the frequency spectrum was very similar across and within subjects. In addition, the sensor space patterns across the scalp demonstrated similar trends between the single and multiplexed stimuli for both SNR and amplitudes. Both the single and multiplexed conditions evoked significant auditory steady-state responses within subjects. On average, the multiplexed AM stimulus took 31 minutes for the lower bound of the 95% prediction interval to cross the significance threshold across all three frequencies. In contrast, the single AM stimuli took 45 minutes and 42 seconds.\nCONCLUSIONS: These findings show that the multiplexed AM stimulus is a promising method to reduce the recording time when simultaneously obtaining information from various neural generators.\nPMID:\n39085997\n| DOI:\n10.1097/AUD.0000000000001552",
+                "pmid": "39085997",
+                "title_translated": "聽覺穩態反應：多重振幅調變頻率以縮短記錄時間",
+                "tldr": "💡 TL;DR: 本研究探討了多重振幅調變(AM)刺激在引發聽覺穩態反應的效率。結果顯示，單一AM條件的信號與噪音比(SNR)平均高出1.61 dB，但多重AM刺激能更有效縮短錄音時間。證據顯示多重AM刺激是一種有前途的技術，用於同時獲取不同神經產生器的資訊。"
+            },
             {
                 "title": "The Inter-Phase Gap Offset Effect as a Measure of Neural Health in Cochlear Implant Users With Residual Acoustic Hearing",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39054580/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240726203544&v=2.18.0.post9+e462414",
@@ -287,9 +305,18 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&fc=20240626023137&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&ff=20240731204004&utm_medium=rss",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:05 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&ff=20240801203606&fc=20240626023137&utm_source=Other&utm_medium=rss&v=2.18.0.post9+e462414",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:06 +0000",
         "entries": [
+            {
+                "title": "A longitudinal study investigating the effects of noise exposure on behavioural, electrophysiological and self-report measures of hearing in musicians with normal audiometric thresholds",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39084132/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240801203606&v=2.18.0.post9+e462414",
+                "published": "2024-07-31",
+                "full_content": "Hear Res\n. 2024 Jul 30;451:109077. doi: 10.1016/j.heares.2024.109077. Online ahead of print.\nABSTRACT\nMusicians are at risk of hearing loss and tinnitus due to regular exposure to high levels of noise. This level of risk may have been underestimated previously since damage to the auditory system, such as cochlear synaptopathy, may not be easily detectable using standard clinical measures. Most previous research investigating hearing loss in musicians has involved cross-sectional study designs that may capture only a snapshot of hearing health in relation to noise exposure. The aim of this study was to investigate the effects of cumulative noise exposure on behavioural, electrophysiological, and self-report indices of hearing damage in early-career musicians and non-musicians with normal hearing over a 2-year period. Participants completed an annual test battery consisting of pure tone audiometry, extended high-frequency hearing thresholds, distortion product otoacoustic emissions (DPOAEs), speech perception in noise, auditory brainstem responses, and self-report measures of tinnitus, hyperacusis, and hearing in background noise. Participants also completed the Noise Exposure Structured Interview to estimate cumulative noise exposure across the study period. Linear mixed models assessed changes over time. The longitudinal analysis comprised 64 early-career musicians (female n = 34; age range at T0 = 18-26 years) and 30 non-musicians (female n = 20; age range at T0 = 18-27 years). There were few longitudinal changes as a result of musicianship. Small improvements over time in some measures may be attributable to a practice/test-retest effect. Some measures (e.g., DPOAE indices of outer hair cell function) were associated with noise exposure at each time point, but did not show a significant change over time. A small proportion of participants reported a worsening of their tinnitus symptoms, which participants attributed to noise exposure, or not using hearing protection. Future longitudinal studies should attempt to capture the effects of noise exposure over a longer period, taken at several time points, for a precise measure of how hearing changes over time. Hearing conservation programmes for \"at risk\" individuals should closely monitor DPOAEs to detect early signs of noise-induced hearing loss when audiometric thresholds are clinically normal.\nPMID:\n39084132\n| DOI:\n10.1016/j.heares.2024.109077",
+                "pmid": "39084132",
+                "title_translated": "長期研究噪音暴露對擁有正常聽力閾值音樂家的行為、生理電測量及自我報告聽力影響之研究",
+                "tldr": "💡 TL;DR: 本研究探討早期音樂家及正常聽力非音樂家在兩年內的累積噪音暴露對聽力損害的影響。結果顯示，音樂家的聽力指標隨時間變化不大，但部分參與者的耳鳴症狀有所惡化，與噪音暴露或未使用聽力保護有關。研究建議未來應進行更長期的縱向研究，以更準確地了解聽力變化，並強調應監測外毛細胞功能指標以早期偵測噪音引起的聽力損失。"
+            },
             {
                 "title": "A new mutation of Sgms1 causes gradual hearing loss associated with a reduced endocochlear potential",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39067415/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&fc=20240626023137&ff=20240728203733&v=2.18.0.post9+e462414",
@@ -564,8 +591,8 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_medium=rss&ff=20240731204005&utm_source=Other&fc=20240626033437",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:05 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other&fc=20240626033437&ff=20240801203609&v=2.18.0.post9+e462414",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:10 +0000",
         "entries": [
             {
                 "title": "Similar performance in sound localisation with unsynchronised and synchronised automatic gain controls in bilateral cochlear implant recipients",
@@ -796,8 +823,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&ff=20240731204005&fc=20240626034904&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:06 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_source=Other&ff=20240801203610&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:11 +0000",
         "entries": [
             {
                 "title": "Speech-Identification During Standing as a Multitasking Challenge for Young, Middle-Aged and Older Adults",
@@ -974,8 +1001,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&utm_source=Other&ff=20240731204006&utm_campaign=pubmed-2&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_medium=rss&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:07 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240801203611&utm_campaign=pubmed-2&utm_source=Other",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:12 +0000",
         "entries": [
             {
                 "title": "Improving Accuracy and Reliability of Hearing Tests: Measurement Standards for Audiometric Devices",
@@ -1197,8 +1224,8 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&utm_medium=rss&utm_source=Other&utm_campaign=pubmed-2&ff=20240731204007&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:07 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other&ff=20240801203612&v=2.18.0.post9+e462414",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:13 +0000",
         "entries": [
             {
                 "title": "Validation of the Pediatric Spatial Hearing Questionnaire",
@@ -1447,8 +1474,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&fc=20240626035220&ff=20240731204007&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:09 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240801203613&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&fc=20240626035220&utm_source=Other&utm_medium=rss",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:14 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1598,9 +1625,18 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240731204009&fc=20240626203307&utm_medium=rss&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_source=Other&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:10 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_medium=rss&ff=20240801203614&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&fc=20240626203307&utm_source=Other",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:14 +0000",
         "entries": [
+            {
+                "title": "Intraoperative Compound Action Potentials as a Predictor of Postoperative Cortical Auditory Evoked Potentials in Cochlear Implant Users",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39084205/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&fc=20240626203307&ff=20240801203614&v=2.18.0.post9+e462414",
+                "published": "2024-07-31",
+                "full_content": "Audiol Neurootol\n. 2024 Jul 31. doi: 10.1159/000540576. Online ahead of print.\nABSTRACT\nOBJECTIVES: Electrically evoked cortical auditory evoked potentials (ECAEPs) are central brain responses to auditory stimuli that correlate with post-operative cochlear implant (CI) hearing outcomes. They differ from electrically evoked compound action potentials (ECAPs) which are peripheral responses that can be elicited intraoperatively and may also predict CI hearing outcomes. It is not known to what degree ECAP and ECAEP responses are associated with each other. Such a correlation, if present, may allow for an earlier and more accurate prediction of post-operative hearing outcomes.\nDESIGN: This retrospective study involved 42 adult CI users. Threshold levels and amplitude growth function slopes of intraoperative ECAPs were compared to the latencies and peak-to-peak amplitudes of postoperative ECAEP responses at three different cochlear electrode array sites (apical, medial, and basal).\nRESULTS: A weak positive relationship was found between intraoperative ECAP thresholds and ECAEP N1-P2 peak-to-peak amplitude (r=0.301, p=0.005). Time between ECAP and ECAEP measurements was weakly correlated with P1-N1 peak-to-peak amplitude (r=0.321, p=0.002) and ECAEP N1-P2 peak-to-peak amplitude (r=0.340, p=0.001). ECAP amplitude growth function (AGF) slopes varied by electrode location (χ²=26.701, df = 2, p=0. 000002).\nCONCLUSIONS: These results suggest that intraoperative ECAP responses do not robustly predict postoperative ECAEP responses, providing caution against the use of ECAPs as a predictive tool for CI hearing outcomes.\nPMID:\n39084205\n| DOI:\n10.1159/000540576",
+                "pmid": "39084205",
+                "title_translated": "耳蝸植入患者術中複合動作電位作為術後皮質聽覺誘發電位的預測指標",
+                "tldr": "💡 TL;DR: 本研究探討了術中電刺激複合動作電位 (ECAP) 與術後電刺激皮層聽覺誘發電位 (ECAEP) 之間的關聯，發現二者之間存在微弱的正相關。雖然術中ECAP與術後ECAEP的某些數值有關聯性，但結果顯示ECAP無法有效預測CI的聽覺結果，因此對將其作為預測工具應持謹慎態度。"
+            },
             {
                 "title": "Residual dizziness characteristics of idiopathic sudden sensorineural hearing loss patients with benign paroxysmal positional vertigo",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39068920/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&fc=20240626203307&ff=20240729203618&v=2.18.0.post9+e462414",
@@ -1758,8 +1794,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&v=2.18.0.post9+e462414&fc=20240627042757&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&ff=20240731204010&utm_medium=rss",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:12 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_campaign=pubmed-2&ff=20240801203618&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&fc=20240627042757&utm_medium=rss&v=2.18.0.post9+e462414",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:18 +0000",
         "entries": [
             {
                 "title": "Prognostic Factors Associated with Post-Stroke Dysphagia in Intracerebral Hemorrhage Patients",
@@ -1999,9 +2035,18 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240731204012&utm_campaign=pubmed-2&fc=20240627042910&utm_source=Other&utm_medium=rss&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:12 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&utm_source=Other&ff=20240801203619&v=2.18.0.post9+e462414",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:19 +0000",
         "entries": [
+            {
+                "title": "The Relationship Between Poststroke Dysphagia and Poststroke Depression and Its Risk Factors",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39088240/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240801203619&v=2.18.0.post9+e462414",
+                "published": "2024-08-01",
+                "full_content": "Am J Speech Lang Pathol\n. 2024 Aug 1:1-13. doi: 10.1044/2024_AJSLP-23-00264. Online ahead of print.\nABSTRACT\nPURPOSE: A diagnosis of dysphagia and/or depression after stroke can impact the physical, psychological, and social welfare of stroke survivors. Although poststroke depression (PSD) and poststroke dysphagia are known to occur concurrently, there is a paucity of research that has specifically investigated their association. Therefore, we aimed to study the relationship between PSD and poststroke dysphagia during acute inpatient hospitalization and within 90 days after discharge. Furthermore, we aimed to evaluate the odds and hazard of being diagnosed with depression after stroke and estimate the time to depression diagnosis from the initial stroke diagnosis in patients with and without a diagnosis of dysphagia.\nMETHOD: Using the acute inpatient hospital data set from our previous work, we pulled additional postdischarge administrative claims data from the 2017 Medicare 5% Limited Data Set and conducted a retrospective, cross-sectional study of patients diagnosed with poststroke dysphagia and PSD.\nRESULTS: Patients diagnosed with poststroke dysphagia had 2.7 higher odds of being diagnosed with PSD and had an approximately 1.75-fold higher hazard for PSD diagnosis in the 90 days after discharge compared to patients not diagnosed with dysphagia. Risk factors for PSD included having dysphagia, being female, and having dual eligibility.\nCONCLUSIONS: Our results demonstrated a significant association between PSD and poststroke dysphagia. Additional research should further explore the impact of PSD on poststroke dysphagia.\nPMID:\n39088240\n| DOI:\n10.1044/2024_AJSLP-23-00264",
+                "pmid": "39088240",
+                "title_translated": "中風後吞嚥困難與中風後抑鬱症的關係及其風險因素",
+                "tldr": "💡 TL;DR: 本研究探討中風後吞嚥困難（dysphagia）與中風後憂鬱症（PSD）之間的關聯。結果顯示，患有吞嚥困難的患者罹患PSD的機率高出2.7倍，且在出院後90天內，PSD診斷風險約高1.75倍。風險因素包括吞嚥困難、女性及雙重資格。研究顯示PSD與吞嚥困難之間存在顯著關聯，需進一步研究兩者的影響。"
+            },
             {
                 "title": "Fatigue, Fogginess, and Sleep Complaints: Presence and Impact on Functioning After Childhood Traumatic Brain Injury",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39083509/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240731204012&v=2.18.0.post9+e462414",
@@ -2267,8 +2312,8 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&utm_campaign=pubmed-2&utm_medium=rss&ff=20240731204016&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_source=Other&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:17 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&utm_medium=rss&ff=20240801203623&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_source=Other",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:23 +0000",
         "entries": [
             {
                 "title": "Communication Public Health: An Integration of Audiology, Speech-Language Pathology, and Public Health",
@@ -2706,8 +2751,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_medium=rss&utm_source=Other&fc=20240627043108&utm_campaign=pubmed-2&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240731204027&v=2.18.0.post9+e462414",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:28 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&ff=20240801203623&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:24 +0000",
         "entries": [
             {
                 "title": "Caregivers' Perceptions of COVID-19 Educational Disruptions on Children With Developmental Language Disorder and Typically Developing Peers",
@@ -2866,9 +2911,18 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&ff=20240731204028&v=2.18.0.post9+e462414&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_source=Other&fc=20240630214159&utm_medium=rss&utm_campaign=pubmed-2",
-        "feed_updated": "Thu, 01 Aug 2024 00:40:29 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240801203624&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss",
+        "feed_updated": "Fri, 02 Aug 2024 00:36:25 +0000",
         "entries": [
+            {
+                "title": "Prevalence and risk factors of self-reported hearing loss, tinnitus, and dizziness in a population-based sample from rural northeastern Germany",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39085387/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240801203624&v=2.18.0.post9+e462414",
+                "published": "2024-07-31",
+                "full_content": "Sci Rep\n. 2024 Jul 31;14(1):17739. doi: 10.1038/s41598-024-68577-3.\nABSTRACT\nA close anatomical and physiological relationship is known between the senses of hearing and balance, while an additional pathophysiological interaction is supposed. The mechanisms underlying this association are not yet fully understood, especially in individuals without a known specific otologic disorder. In particular, only scarce information on the combined occurrence of audiovestibular sensory impairment is available so far. Therefore, this study aims to provide further insight into the prevalence and co-prevalence of the audiovestibular symptoms hearing loss, tinnitus and dizziness. Additionally, the influence of potential risk factors from lifestyle habits as well as cardiovascular and metabolic conditions on the development of those symptoms is studied. Data was analyzed from 8134 individuals from the population-based Study of Health in Pomerania (SHIP). SHIP pursues a broad and comprehensive examination program in chronologically separated cohorts with longitudinal follow-up. Cohorts are sampled from Western Pomerania, a rural region of north-eastern Germany. The study population represents a cross-sectional analysis from the cohorts SHIP-START (recruited 1997-2001) and SHIP-TREND (recruited 2008-2012), sampled for baseline investigations (SHIP-START-0 and SHIP-TREND-0) at the age of 20-79 years. Audiovestibular symptoms as outcome variables were assessed by structured questionnaires. Additionally, individuals were comprehensively characterized regarding modifiable lifestyle factors as well as cardiovascular and metabolic disorders, allowing the assessment of their role as exposure variables. We calculated a weighted prevalence of 14.2% for hearing loss, 9.7% for tinnitus, and 13.5% for dizziness in the population. Prevalence increased with age and differed among the sexes. A considerable share of 28.0% of the investigated individuals reported more than one symptom at once. The prevalence of hearing loss as well as tinnitus increased between the two cohorts. A moderate positive correlation was found between the occurrence of hearing loss and tinnitus (phi-coefficient 0.318). In multivariable regression analyses, education was identified as a significant protective factor while only smoking was significantly associated with all three symptoms. Furthermore, several cardiovascular risk factors contributed to both hearing loss and dizziness. In conclusion, audiovestibular symptoms are highly prevalent in the investigated population. A considerable but complex influence of risk factors points towards a relation with neuronal as well as cardiovascular disease processes. To clarify the underlying mechanisms, the interaction between the senses of hearing and balance as well as the mode of action of the risk factors should be evaluated in more detail in the future.\nPMID:\n39085387\n| DOI:\n10.1038/s41598-024-68577-3",
+                "pmid": "39085387",
+                "title_translated": "德國東北部農村人群中自報聽力損失、耳鳴和眩暈的流行率及危險因素分析",
+                "tldr": "💡 TL;DR: 本研究探討了聽力喪失、耳鳴和眩暈在8134名受試者中的流行率，結果顯示聽力喪失的流行率為14.2%，耳鳴為9.7%，眩暈為13.5%，且隨年齡增長和性別差異而變化。研究發現教育程度對所有症狀具有保護作用，而吸煙與三種症狀均有顯著關聯。此外，心血管風險因素也影響聽力喪失和眩暈，顯示神經與心血管疾病過程之間的複雜關係。"
+            },
             {
                 "title": "Cortical volumetric changes after cochlear implantation in postlingually deaf adults: correlation with speech perception abilities",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39080361/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240731204028&v=2.18.0.post9+e462414",
