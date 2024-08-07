@@ -1,9 +1,27 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240626023002&utm_source=Other&ff=20240805203619",
-        "feed_updated": "Tue, 06 Aug 2024 00:36:20 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_source=Other&ff=20240806203646&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 07 Aug 2024 00:36:47 +0000",
         "entries": [
+            {
+                "title": "Examining the Relationship Between Hearing Health Beliefs and Social Determinants of Health in Black Adults",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39106324/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240806203646&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "Ear Hear\n. 2024 Jul 29. doi: 10.1097/AUD.0000000000001562. Online ahead of print.\nABSTRACT\nOBJECTIVES: Hearing loss is a highly prevalent condition; however, it is widely under-treated, and Black Americans have been found to have significantly lower rates of hearing aid utilization than other ethnic/racial groups. In this exploratory study, we aimed to identify hearing health beliefs among Black adults, guided by the Health Belief Model, with social determinants of health, and examine individual differences in these perspectives.\nDESIGN: The Hearing Beliefs Questionnaire (HBQ) was administered online to measure constructs of the Health Belief Model among 200 Black adults aged 18 to 75 (M = 39.14, SD = 14.24). Approximately 13% reported hearing difficulty. In addition, 11 social determinants of health questions were included. Participants were recruited from a university otolaryngology clinic and local Black congregations, meeting inclusion criteria of being 18 or older and Black/African American. Mean scores and SDs for HBQ subscales were calculated. Analysis included analysis of variance and t tests to explore relationships with demographic variables and social determinants of health. Multiple regression analyses predicted HBQ subscale scores from sociodemographic variables.\nRESULTS: Mean HBQ subscale scores ranged from 3.88 (SD = 2.28) for Perceived Barriers to 6.76 (SD = 1.93) for Perceived Benefits. Positive correlations were observed between Perceived Severity, Perceived Benefits, and Perceived Self-Efficacy scores and participant educational attainment. Lower economic stability was correlated with poorer scores in Perceived Self-Efficacy, Perceived Severity, and Perceived Benefits. Black adults' willingness to purchase a hearing aid was heavily influenced by their Perceived Benefit, Perceived Severity, and Perceived Self-Efficacy scores, with lower scores correlating with unwillingness to purchase devices. Higher frequency of racism/discrimination and financial hardship correlated with increased Perceived Barriers scores for accessing hearing healthcare. In addition, hearing health beliefs between participants with self-reported hearing difficulty and those without trouble only exhibited differences in the Perceived Susceptibility subscale, with those experiencing hearing difficulty having higher scores in this subscale; no other distinctions were identified.\nCONCLUSIONS: The Health Belief Model, used with social determinants of health, revealed associations, and variations, in the hearing health beliefs held by Black adults. The present investigation reveals heterogeneity within this group and pinpoints individuals at higher risk for untreated hearing loss, stemming from their negative perceptions about hearing healthcare. These beliefs are influenced by demographics and social determinants of health, underscoring areas ripe for intervention.\nPMID:\n39106324\n| DOI:\n10.1097/AUD.0000000000001562",
+                "pmid": "39106324",
+                "title_translated": "探討黑人成人聽力健康信念與健康社會決定因素之關係",
+                "tldr": "💡 TL;DR: 本研究旨在探討黑人成人的聽力健康信念，並使用健康信念模型進行分析。200名參與者的調查顯示，教育程度與聽力健康信念評分正相關，而經濟穩定性較低者則對聽力保健的信念較差。結果顯示，對購買助聽器的意願受信念影響，且在承受種族歧視與經濟困難的背景下，存在明顯障礙。因此，有必要針對這些信念展開干預。"
+            },
+            {
+                "title": "Outcomes Using the Optimized Pitch and Language Strategy Versus the Advanced Combination Encoder Strategy in Mandarin-Speaking Cochlear Implant Recipients",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39104002/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240806203646&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "Ear Hear\n. 2024 Aug 6. doi: 10.1097/AUD.0000000000001572. Online ahead of print.\nABSTRACT\nOBJECTIVES: The experimental Optimized Pitch and Language (OPAL) strategy enhances coding of fundamental frequency (F0) information in the temporal envelope of electrical signals delivered to channels of a cochlear implant (CI). Previous studies with OPAL have explored performance on speech and lexical tone perception in Mandarin- and English-speaking CI recipients. However, it was not clear which cues to lexical tone (primary and/or secondary) were used by the Mandarin CI listeners. The primary aim of the present study was to investigate whether OPAL provides improved recognition of Mandarin lexical tones in both quiet and noisy environments compared with the Advanced Combination Encoder (ACE) strategy. A secondary aim was to investigate whether, and to what extent, removal of secondary (duration and intensity envelope) cues to lexical tone affected Mandarin tone perception.\nDESIGN: Thirty-two CI recipients with an average age of 24 (range 7 to 57) years were enrolled in the study. All recipients had at least 1 year of experience using ACE. Each subject attended two testing sessions, the first to measure baseline performance, and the second to evaluate the effect of strategy after provision of some take-home experience using OPAL. A minimum take-home duration of approximately 4 weeks was prescribed in which subjects were requested to use OPAL as much as possible but were allowed to also use ACE when needed. The evaluation tests included recognition of Mandarin lexical tones in quiet and in noise (signal to noise ratio [SNR] +5 dB) using naturally produced tones and duration/intensity envelope normalized versions of the tones; Mandarin sentence in adaptive noise; Mandarin monosyllabic and disyllabic word in quiet; a subset of Speech, Spatial, and Qualities of hearing questionnaire (SSQ, speech hearing scale); and subjective preference for strategy in quiet and noise.\nRESULTS: For both the natural and normalized lexical tone tests, mean scores for OPAL were significantly higher than ACE in quiet by 2.7 and 2.9%-points, respectively, and in noise by 7.4 and 7.2%-points, respectively. Monosyllabic word recognition in quiet using OPAL was significantly higher than ACE by approximately 7.5% points. Average SSQ ratings for OPAL were significantly higher than ACE by approximately 0.5 points on a 10-point scale. In quiet conditions, 14 subjects preferred OPAL, 7 expressed a preference for ACE, and 9 reported no preference. Compared with quiet, in noisy situations, there was a stronger preference for OPAL (19 recipients), a similar preference for ACE (7 recipients), while fewer expressed no preference. Average daily take-home use of ACE and OPAL was 4.9 and 7.1 hr, respectively.\nCONCLUSIONS: For Mandarin-speaking CI recipients, OPAL provided significant improvements to lexical tone perception for natural and normalized tones in quiet and noise, monosyllabic word recognition in quiet, and subjective ratings of speech intelligibility. Subjects accessed both primary and secondary cues to lexical tone for perception in quiet and noise conditions. The benefits of lexical tone recognition were attributed to enhanced F0 rate cues encoded by OPAL, especially in a noisy environment. The OPAL strategy was well accepted by many of the Mandarin-speaking CI recipients.\nPMID:\n39104002\n| DOI:\n10.1097/AUD.0000000000001572",
+                "pmid": "39104002",
+                "title_translated": "優化語音與語言策略與高級組合編碼器策略在說中文的人工耳蝸植入者中的結果比較",
+                "tldr": "💡 TL;DR: 本研究探討使用OPAL策略是否能改善中文使用者在安靜和噪音環境中對音調的辨識能力。結果顯示，OPAL在各種測試中均顯著優於ACE策略，特別是在噪音中，受試者對音調的辨識有所提升。OPAL策略增強了基頻率提示的編碼，且受試者對於使用OPAL的接受度很高。"
+            },
             {
                 "title": "Infant Cervical Vestibular Evoked Myogenic Potentials: A Scoping Review",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39099011/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&ff=20240805203619&v=2.18.0.post9+e462414",
@@ -143,8 +161,8 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_medium=rss&utm_campaign=pubmed-2&fc=20240626023137&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&ff=20240805203710&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 06 Aug 2024 00:37:10 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&utm_source=Other&ff=20240806203652&fc=20240626023137&utm_medium=rss&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 07 Aug 2024 00:36:53 +0000",
         "entries": [
             {
                 "title": "Wireless electrocochleography in awake chinchillas: A model to study crossmodal modulations at the peripheral level",
@@ -285,9 +303,18 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_medium=rss&fc=20240626033437&v=2.18.0.post9+e462414&utm_source=Other&ff=20240805203808&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2",
-        "feed_updated": "Tue, 06 Aug 2024 00:38:09 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_source=Other&fc=20240626033437&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240806203653",
+        "feed_updated": "Wed, 07 Aug 2024 00:36:53 +0000",
         "entries": [
+            {
+                "title": "Phonological awareness and reading outcomes in children with a history of otitis media: a review",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39105670/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240806203653&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "Int J Audiol\n. 2024 Aug 6:1-8. doi: 10.1080/14992027.2024.2383698. Online ahead of print.\nABSTRACT\nOBJECTIVE: A review was conducted to investigate the current evidence for effects of otitis media (OM) on phonological awareness and reading skills in children under 12 years old.\nDESIGN: A review conducted in 2024 to identify articles between 1978 and 2024 related to OM and its impact on (pre-)reading skills.\nSTUDY SAMPLE: An initial search across six databases provided 6808 research outputs. After screening, 27 articles were retained. Screening of the references on the selected articles provided an additional 6, giving 33 articles in the final review.\nRESULTS: The selected research papers did not all evaluate the same phonological awareness or reading skills. Of the studies, 20 identified that a history of OM impacted reading outcomes. Twelve studies found no significant impact while one study showed an impact which resolved with time.\nCONCLUSION: The findings do not show a consistent association between a history of OM and phonological processing or reading skills. This is likely due to the wide range of methodologies employed and variability in the focus of the respective studies. Future research, including longitudinal studies, would be beneficial to infer the potential impacts of OM on phonological processing or reading skills.\nPMID:\n39105670\n| DOI:\n10.1080/14992027.2024.2383698",
+                "pmid": "39105670",
+                "title_translated": "耳鳴病史對兒童音韻意識與閱讀結果的影響：綜述",
+                "tldr": "💡 TL;DR: 本文回顧了1978年至2024年期間有關中耳炎對12歲以下兒童語音覺知和閱讀技能影響的研究。最終選取33篇文獻，其中20篇認為中耳炎歷史與閱讀結果有關，但結果不一致，且研究方法多樣。結論建議未來進行縱向研究，以深入探討中耳炎對語音處理和閱讀技能的潛在影響。"
+            },
             {
                 "title": "Remote self-testing for adult cochlear implant users: the effect of wireless streaming on speech recognition in noise",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39101925/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240805203808&v=2.18.0.post9+e462414",
@@ -427,9 +454,18 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_campaign=pubmed-2&utm_source=Other&fc=20240626034904&ff=20240805203907&v=2.18.0.post9+e462414&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_medium=rss",
-        "feed_updated": "Tue, 06 Aug 2024 00:39:07 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&utm_source=Other&ff=20240806203656&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 07 Aug 2024 00:36:57 +0000",
         "entries": [
+            {
+                "title": "The Merits of Bilateral Application of Middle Ear Implants in Patients With Bilateral Conductive and/or Mixed Hearing Loss",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39106413/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&ff=20240806203656&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "Trends Hear\n. 2024 Jan-Dec;28:23312165241264466. doi: 10.1177/23312165241264466.\nABSTRACT\nThis study investigated sound localization abilities in patients with bilateral conductive and/or mixed hearing loss (BCHL) when listening with either one or two middle ear implants (MEIs). Sound localization was measured by asking patients to point as quickly and accurately as possible with a head-mounted LED in the perceived sound direction. Loudspeakers, positioned around the listener within a range of +73°/-73° in the horizontal plane, were not visible to the patients. Broadband (500 Hz-20 kHz) noise bursts (150 ms), roved over a 20-dB range in 10 dB steps was presented. MEIs stimulate the ipsilateral cochlea only and therefore the localization response was not affected by crosstalk. Sound localization was better with bilateral MEIs compared with the unilateral left and unilateral right conditions. Good sound localization performance was found in the bilaterally aided hearing condition in four patients. In two patients, localization abilities equaled normal hearing performance. Interestingly, in the unaided condition, when both devices were turned off, subjects could still localize the stimuli presented at the highest sound level. Comparison with data of patients implanted bilaterally with bone-conduction devices, demonstrated that localization abilities with MEIs were superior. The measurements demonstrate that patients with BCHL, using remnant binaural cues in the unaided condition, are able to process binaural cues when listening with bilateral MEIs. We conclude that implantation with two MEIs, each stimulating only the ipsilateral cochlea, without crosstalk to the contralateral cochlea, can result in good sound localization abilities, and that this topic needs further investigation.\nPMID:\n39106413\n| DOI:\n10.1177/23312165241264466",
+                "pmid": "39106413",
+                "title_translated": "雙側耳中植入物在雙側傳導性及/或混合性聽力損失患者中的優點",
+                "tldr": "💡 TL;DR: 本研究探討了雙側傳導性和/或混合性聽力損失患者在使用單個或雙個中耳植入物（MEIs）時的聲音定位能力。結果顯示，使用雙側MEIs的聲音定位表現優於單側條件，且部分患者的定位能力達到正常聽力水平。研究發現，患者雖然在未輔助情況下仍能定位聲音，顯示出兩個MEIs能有效促進聲音定位，需進一步研究。"
+            },
             {
                 "title": "A Step Toward Precision Audiology: Individual Differences and Characteristic Profiles From Auditory Perceptual and Cognitive Abilities",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39099537/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&ff=20240805203907&v=2.18.0.post9+e462414",
@@ -569,8 +605,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_campaign=pubmed-2&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&ff=20240805203956",
-        "feed_updated": "Tue, 06 Aug 2024 00:39:56 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&utm_medium=rss&ff=20240806203659&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:00 +0000",
         "entries": [
             {
                 "title": "Improving Accuracy and Reliability of Hearing Tests: Measurement Standards for Audiometric Devices",
@@ -711,9 +747,18 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&ff=20240805204041&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=Other",
-        "feed_updated": "Tue, 06 Aug 2024 00:40:42 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_medium=rss&utm_campaign=pubmed-2&ff=20240806203700",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:01 +0000",
         "entries": [
+            {
+                "title": "Impact of Hearing Aid Processing Delay on Stop Consonant Voicing Perception in Open Fittings",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39106202/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240806203700&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "Am J Audiol\n. 2024 Aug 6:1-10. doi: 10.1044/2024_AJA-24-00034. Online ahead of print.\nABSTRACT\nPURPOSE: Hearing aid (HA) processing delay results in asynchronous overlap of the input sound and the delayed amplified sound at the eardrum in open-ear fittings. This may distort the temporal cues used for stop-consonant voicing distinctions. The current study evaluated the impact of HA processing delay on voiced-voiceless categorization of syllable initial consonants /d/ and /t/ for a range of voice onset times (VOTs).\nMETHOD: Nineteen older listeners (\nM\nage\n= 73 years) with mild-moderate sensorineural hearing loss participated. All listeners performed the voiced-voiceless categorization task in double-blind within-subjects design. Thirteen stimulus tokens along the /di:/ - /ti:/ continuum were created by varying VOTs. Stimuli were then processed using an HA simulator, which simulated the overall sound pressure levels measured at the eardrum in open-ear fittings with four processing delay times (0, 0.5, 5, and 8 ms). Individualized stimuli were generated for each listener based on their audiogram and presented via calibrated ear inserts at the most comfortable listening level. Performance across all VOT intervals was fitted with psychometric functions, which were then used to estimate the voiced-voiceless crossover point and the slope parameter for each simulated delay condition.\nRESULTS: The crossover point along the voiced-voiceless continuum shifted systematically with increased processing delay toward voiced /di:/ over unvoiced /ti:/ percepts. The shift in the crossover point between the 0-ms reference condition and the 8-ms processing delay condition corresponded to 5.8 ms of change in VOT. The 8-ms processing delay condition resulted in significantly shallower categorization slopes compared to the 0- and 0.5-ms delay conditions.\nCONCLUSIONS: Temporal distortions created by HA processing delay in open-ear fittings impacted voicing perception of syllable initial stop-consonant stimuli near the voiced-voiceless crossover point. Short HA processing delay should be considered for open-ear fittings to preserve the natural VOT cues used for voicing detection.\nPMID:\n39106202\n| DOI:\n10.1044/2024_AJA-24-00034",
+                "pmid": "39106202",
+                "title_translated": "耳機處理延遲對開放配戴中止音聲音辨識的影響",
+                "tldr": "💡 TL;DR: 本研究探討助聽器處理延遲對音節初始輔音/d/與/t/的有聲與無聲分類的影響。十九名年長受試者參加了實驗，結果顯示隨著處理延遲增加，分類界點向有聲/di:/偏移，且8毫秒的處理延遲顯著影響了分類斜率。研究建議在開耳配置中應考慮縮短助聽器的處理延遲，以保留聲音檢測所需的時間線索。"
+            },
             {
                 "title": "Validation of the Pediatric Spatial Hearing Questionnaire",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39058953/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240805204041&v=2.18.0.post9+e462414",
@@ -853,8 +898,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414&fc=20240626035220&ff=20240805204132&utm_campaign=pubmed-2",
-        "feed_updated": "Tue, 06 Aug 2024 00:41:32 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240806203703&utm_campaign=pubmed-2&fc=20240626035220&utm_source=Other&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_medium=rss&v=2.18.0.post9+e462414",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:03 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -995,9 +1040,18 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_campaign=pubmed-2&utm_source=Other&fc=20240626203307&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&v=2.18.0.post9+e462414&ff=20240805204211&utm_medium=rss",
-        "feed_updated": "Tue, 06 Aug 2024 00:42:12 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240806203703&v=2.18.0.post9+e462414&utm_source=Other&fc=20240626203307&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:04 +0000",
         "entries": [
+            {
+                "title": "Comparison between the international outcome inventory for hearing aids questionnaire and real-ear measurement",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39102790/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&fc=20240626203307&ff=20240806203703&v=2.18.0.post9+e462414",
+                "published": "2024-08-05",
+                "full_content": "Audiol Neurootol\n. 2024 Aug 5. doi: 10.1159/000540738. Online ahead of print.\nABSTRACT\nINTRODUCTION: The international outcome inventory for hearing aids (IOI-HA) is a questionnaire widely used to assess the subjective benefits of hearing aids. This study aimed to evaluate the relationship between IOI-HA outcomes and target mismatch in real-ear measurement (REM).\nMETHODS: Thirty-four ears of 25 patients who had worn hearing aids were evaluated using the Korean version of the IOI-HA and REM after fitting for 2 months. Real-ear insertion gain (REIG) was measured at three different levels of input intensity-50, 65, and 80 dB sound pressure level (SPL)-and a frequency range of 0.25 to 6 kHz. Factors 1 and 2 and total IOI-HA scores were compared with the mismatches of REIGs and target gains of REM.\nRESULTS: Factor 1, Factor 2, and total IOI-HA scores were 14.6 ± 3.5, 11.4 ± 2.2, and 25.9 ± 5.1, respectively. The averages of the difference of REIGs and target gains in REM at 50, 65, and 80 dB SPL input levels were -3.1 ± 6.7, -2.3 ± 7.2, and -3.0 ± 8.2, respectively. Factors 1 and 2 scores of the IOI-HA showed significant correlations with target mismatch in REM at 1 kHz and 0.75 kHz frequencies, respectively. Total IOI-HA scores had significant correlations with target mismatches in REM at 0.75 and 1 kHz frequencies.\nCONCLUSION: IOI-HA scores correlated with target mismatch in REM at mid frequencies. The IOI-HA can be a useful screening measure for evaluating the necessity of further adjustments in hearing aids through REM at mid frequencies.\nPMID:\n39102790\n| DOI:\n10.1159/000540738",
+                "pmid": "39102790",
+                "title_translated": "聽助器國際效果清單問卷與真實耳道測量的比較",
+                "tldr": "💡 TL;DR: 本研究旨在評估耳機使用者的國際耳機成果清單 (IOI-HA) 與實耳測量 (REM) 之間的關係。研究發現，IOI-HA 分數與中頻的 REM 目標不匹配顯示出顯著相關性。結果表明，IOI-HA 可作為評估耳機調整必要性的有用篩選工具。"
+            },
             {
                 "title": "Intraoperative Compound Action Potentials as a Predictor of Postoperative Cortical Auditory Evoked Potentials in Cochlear Implant Users",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39084205/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&fc=20240626203307&ff=20240805204211&v=2.18.0.post9+e462414",
@@ -1137,8 +1191,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414&fc=20240627042757&ff=20240805204259&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct",
-        "feed_updated": "Tue, 06 Aug 2024 00:43:00 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&v=2.18.0.post9+e462414&ff=20240806203706&utm_medium=rss&utm_campaign=pubmed-2",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:07 +0000",
         "entries": [
             {
                 "title": "Sensory Changes Related to Swallowing in Motor Neurone Disease",
@@ -1279,8 +1333,8 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&fc=20240627042910&utm_source=Other&ff=20240805204347&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn",
-        "feed_updated": "Tue, 06 Aug 2024 00:43:48 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240806203707&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_medium=rss&utm_campaign=pubmed-2&fc=20240627042910",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:07 +0000",
         "entries": [
             {
                 "title": "Impact of Cultural-Linguistic Differences on Vocal Fatigue Perception: A Systematic Review and Meta-Analysis",
@@ -1421,9 +1475,27 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&ff=20240805204436&fc=20240627043029&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&utm_source=Other&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y",
-        "feed_updated": "Tue, 06 Aug 2024 00:44:37 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&utm_source=Other&fc=20240627043029&ff=20240806203707&utm_medium=rss&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&v=2.18.0.post9+e462414",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:08 +0000",
         "entries": [
+            {
+                "title": "Dual-Task Interference in the Assessment of Listening Effort: Results of Normal-Hearing Adults, Cochlear Implant Users, and Hearing Aid Users",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39106210/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240806203707&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "J Speech Lang Hear Res\n. 2024 Aug 6:1-16. doi: 10.1044/2024_JSLHR-23-00636. Online ahead of print.\nABSTRACT\nPURPOSE: The purpose of the current study was to assess dual-task interference (i.e., changes between the dual-task and baseline condition) in a listening effort dual-task paradigm in normal-hearing (NH) adults, hearing aid (HA) users, and cochlear implant (CI) users.\nMETHOD: Three groups of 31 participants were included: (a) NH adults, (b) HA users, and (c) CI users. The dual-task paradigm consisted of a primary speech understanding task in a quiet condition, and a favorable and unfavorable noise condition, and a secondary visual memory task. Dual-task interference was calculated for both tasks, and participants were classified based on their patterns of interference. Descriptive analyses were established and differences between the three groups were examined.\nRESULTS: The descriptive results showed varying patterns of dual-task interference between the three listening conditions. Most participants showed the pattern of visual memory interference (i.e., worse results for the secondary task in the dual-task condition and no difference for the primary task) in the quiet condition, whereas the pattern of speech understanding priority trade-off (i.e., worse results for the secondary task in the dual-task condition and better results for the primary task) was most prominent in the unfavorable noise condition. Particularly, in HA and CI users, this shift was seen. However, the patterns of dual-task interference were not statistically different between the three groups.\nCONCLUSIONS: Results of this study may provide additional insight into the interpretation of dual-task paradigms for measuring listening effort in diverse participant groups. It highlights the importance of considering both the primary and secondary tasks for accurate interpretation of results.\nSUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.26409088.\nPMID:\n39106210\n| DOI:\n10.1044/2024_JSLHR-23-00636",
+                "pmid": "39106210",
+                "title_translated": "雙重任務干擾對聽力努力評估的影響：正常聽力成人、人工耳蝸使用者與助聽器使用者的結果",
+                "tldr": "💡 TL;DR: 本研究評估正常聽力者、助聽器使用者及人工耳蝸使用者在聆聽努力的雙重任務干擾情況。結果顯示在安靜環境中，參與者主要表現出視覺記憶干擾，而在不利噪音條件下則出現語音理解優先的情況。雖然不同團體的干擾模式有所不同，但三組之間的統計差異不明顯。研究結果強調同時評估主要及次要任務的重要性，以準確解釋聆聽努力的結果。"
+            },
+            {
+                "title": "Neural Decoding of Spontaneous Overt and Intended Speech",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39106199/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240806203707&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "J Speech Lang Hear Res\n. 2024 Aug 6:1-10. doi: 10.1044/2024_JSLHR-24-00046. Online ahead of print.\nABSTRACT\nPURPOSE: The aim of this study was to decode intended and overt speech from neuromagnetic signals while the participants performed spontaneous overt speech tasks without cues or prompts (stimuli).\nMETHOD: Magnetoencephalography (MEG), a noninvasive neuroimaging technique, was used to collect neural signals from seven healthy adult English speakers performing spontaneous, overt speech tasks. The participants randomly spoke the words yes or no at a self-paced rate without cues. Two machine learning models, namely, linear discriminant analysis (LDA) and one-dimensional convolutional neural network (1D CNN), were employed to classify the two words from the recorded MEG signals.\nRESULTS: LDA and 1D CNN achieved average decoding accuracies of 79.02% and 90.40%, respectively, in decoding overt speech, significantly surpassing the chance level (50%). The accuracy for decoding intended speech was 67.19% using 1D CNN.\nCONCLUSIONS: This study showcases the possibility of decoding spontaneous overt and intended speech directly from neural signals in the absence of perceptual interference. We believe that these findings make a steady step toward the future spontaneous speech-based brain-computer interface.\nPMID:\n39106199\n| DOI:\n10.1044/2024_JSLHR-24-00046",
+                "pmid": "39106199",
+                "title_translated": "自發性明顯與意圖言語的神經解碼",
+                "tldr": "💡 TL;DR: 本研究旨在從神經磁信號中解碼自發口語和意圖言語。使用磁腦電圖（MEG）收集七名健康成年英文說話者的神經信號，並利用機器學習模型進行分類。結果顯示，對於自發口語的解碼準確率分別為79.02%（LDA）和90.40%（1D CNN）；意圖言語的準確率為67.19%（1D CNN）。這表明在無感知干擾的情況下，從神經信號解碼口語是可能的，對未來基於自發口語的腦機介面具有重要意義。"
+            },
             {
                 "title": "Communication Public Health: An Integration of Audiology, Speech-Language Pathology, and Public Health",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39083459/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240805204436&v=2.18.0.post9+e462414",
@@ -1563,8 +1635,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&fc=20240627043108&utm_campaign=pubmed-2&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240805204527&utm_source=Other&utm_medium=rss&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 06 Aug 2024 00:45:28 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other&fc=20240627043108&ff=20240806203718&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:19 +0000",
         "entries": [
             {
                 "title": "Caregivers' Perceptions of COVID-19 Educational Disruptions on Children With Developmental Language Disorder and Typically Developing Peers",
@@ -1705,9 +1777,18 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_medium=rss&fc=20240630214159&ff=20240805204617&utm_source=Other&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_campaign=pubmed-2&v=2.18.0.post9+e462414",
-        "feed_updated": "Tue, 06 Aug 2024 00:46:18 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240630214159&utm_campaign=pubmed-2&utm_source=Other&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&ff=20240806203719",
+        "feed_updated": "Wed, 07 Aug 2024 00:37:20 +0000",
         "entries": [
+            {
+                "title": "Voxelwise analysis of the central hearing pathway in senior dogs reveals changes associated with fractional lifespan",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39103441/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240806203719&v=2.18.0.post9+e462414",
+                "published": "2024-08-05",
+                "full_content": "Sci Rep\n. 2024 Aug 5;14(1):18121. doi: 10.1038/s41598-024-68828-3.\nABSTRACT\nPresbycusis, or age-related hearing loss, affects both elderly humans and dogs, significantly impairing their social interactions and cognition. In humans, presbycusis involves changes in peripheral and central auditory systems, with central changes potentially occurring independently. While peripheral presbycusis in dogs is well-documented, research on central changes remains limited. Diffusion tensor imaging (DTI) is a useful tool for detecting and quantifying cerebral white matter abnormalities. This study used DTI to explore the central auditory pathway of senior dogs, aiming to enhance our understanding of canine presbycusis. Dogs beyond 75% of their expected lifespan were recruited and screened with brainstem auditory evoked response testing to select dogs without severe peripheral hearing loss. Sixteen dogs meeting the criteria were scanned using a 3 T magnetic resonance scanner. Tract-based spatial statistics was used to analyze the central auditory pathways. A significant negative correlation between fractional lifespan and fractional anisotropy was found in the acoustic radiation, suggesting age-related white matter changes in the central auditory system. These changes, observed in dogs without severe peripheral hearing loss, may contribute to central presbycusis development.\nPMID:\n39103441\n| DOI:\n10.1038/s41598-024-68828-3",
+                "pmid": "39103441",
+                "title_translated": "老犬中樞聽覺通路的體素分析顯示與分數壽命相關的變化",
+                "tldr": "💡 TL;DR: 這項研究探討了年長狗隻的中央聽覺通路，使用擴散張量影像技術（DTI）來分析腦白質異常。結果顯示，年齡與聲音輻射區的分數各向異性之間存在顯著負相關，顯示有年齡相關的白質變化，即使在沒有嚴重周邊聽力損失的狗隻中也可觀察到，這可能促進中央耳聾的發展。"
+            },
             {
                 "title": "Prevalence and risk factors of self-reported hearing loss, tinnitus, and dizziness in a population-based sample from rural northeastern Germany",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39085387/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240805204617&v=2.18.0.post9+e462414",
