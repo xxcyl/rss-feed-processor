@@ -1,8 +1,8 @@
 {
     "Ear and Hearing": {
         "feed_title": "Ear Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&fc=20240626023002&utm_source=Other&ff=20240806203646&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
-        "feed_updated": "Wed, 07 Aug 2024 00:36:47 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_source=Other&utm_content=1Zorz_P_0HTAaoqnwhpgE_TFJaefMBgffOF8QkaGfMNRcjE9a9&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240807203633&fc=20240626023002",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:34 +0000",
         "entries": [
             {
                 "title": "Examining the Relationship Between Hearing Health Beliefs and Social Determinants of Health in Black Adults",
@@ -161,8 +161,8 @@
     },
     "Hearing Research": {
         "feed_title": "Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&v=2.18.0.post9+e462414&utm_source=Other&ff=20240806203652&fc=20240626023137&utm_medium=rss&utm_campaign=pubmed-2",
-        "feed_updated": "Wed, 07 Aug 2024 00:36:53 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&utm_source=Other&utm_campaign=pubmed-2&fc=20240626023137&utm_medium=rss&utm_content=1tEPRaPjO5zVy7qfvzqgzrqhLi4WlnnyGvj6brH06A-P9l5k7-&ff=20240807203634&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:35 +0000",
         "entries": [
             {
                 "title": "Wireless electrocochleography in awake chinchillas: A model to study crossmodal modulations at the peripheral level",
@@ -303,9 +303,18 @@
     },
     "International Journal of Audiology": {
         "feed_title": "Int J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_source=Other&fc=20240626033437&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20240806203653",
-        "feed_updated": "Wed, 07 Aug 2024 00:36:53 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&ff=20240807203636&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&utm_campaign=pubmed-2&fc=20240626033437&utm_medium=rss&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:36 +0000",
         "entries": [
+            {
+                "title": "Remote self-report and speech-in-noise measures predict clinical audiometric thresholds",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39109478/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240807203636&v=2.18.0.post9+e462414",
+                "published": "2024-08-07",
+                "full_content": "Int J Audiol\n. 2024 Aug 7:1-9. doi: 10.1080/14992027.2024.2387291. Online ahead of print.\nABSTRACT\nOBJECTIVE: Developments in smartphone technology and the COVID-19 pandemic have highlighted the feasibility and need for remote, but reliable hearing tests. Previous studies used remote testing but did not directly compare results in the same listeners with standard lab or clinic testing. This study investigated validity and reliability of remote, self-administered digits-in-noise (remote-DIN) compared with lab-based, supervised (lab-DIN) testing. Predictive validity was further examined in relation to a commonly used self-report, Speech, Spatial, and Qualities of Hearing (SSQ-12), and lab-based, pure tone audiometry.\nDESIGN: DIN speech reception thresholds (SRTs) of adults (18-64 y/o) with normal hearing (NH, N = 16) and hearing loss (HL, N = 18), were measured using English-language digits (0-9), binaurally presented as triplets in one of four speech-shaped noise maskers (broadband, low-pass filtered at 2, 4, 8 kHz) and two phases (diotic, antiphasic).\nRESULTS: High, significant intraclass correlation coefficients indicated strong internal consistency of remote-DIN SRTs, which also correlated significantly with lab-DIN SRTs. There was no significant mean difference between remote- and lab-DIN on any tests. NH listeners had significantly higher SSQ scores and remote- and lab-DIN SRTs than listeners with HL. All versions of remote-DIN SRTs correlated significantly with pure-tone-average (PTA), with the 2-kHz filtered test being the best predictor, explaining 50% of the variance in PTA. SSQ total score also significantly and independently predicted PTA (17% of variance) and all test versions of the remote-DIN, except the antiphasic BB test.\nCONCLUSIONS: This study underscores the effectiveness of remote DIN test and SSQ-12 in assessing auditory function. These findings suggest the potential for wider access to reliable hearing assessment, particularly in remote or underserved communities.\nPMID:\n39109478\n| DOI:\n10.1080/14992027.2024.2387291",
+                "pmid": "39109478",
+                "title_translated": "遠端自我報告及噪音中語音測量預測臨床聽力閾值",
+                "tldr": "💡 TL;DR: 本研究比較了自我管理的遠程噪音數字聽力測試（remote-DIN）與實驗室監督測試（lab-DIN）的有效性和可靠性。結果顯示，兩者之間沒有顯著差異，且遠程測試與實驗室測試的結果高度相關。聽力正常者的聽力表現優於聽力損失者，並且遠程測試能有效預測純音聽力平均值。這表明遠程測試和自我報告工具在聽力評估中的潛在價值。"
+            },
             {
                 "title": "Phonological awareness and reading outcomes in children with a history of otitis media: a review",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39105670/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1fi6WUEpgeODdrCM5uUoFFYFQ_x-y4GxTUqNoRCplh_d6yekiw&fc=20240626033437&ff=20240806203653&v=2.18.0.post9+e462414",
@@ -454,8 +463,8 @@
     },
     "Trends in Hearing": {
         "feed_title": "Trends Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&fc=20240626034904&utm_source=Other&ff=20240806203656&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2",
-        "feed_updated": "Wed, 07 Aug 2024 00:36:57 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1ZSp7ZOQTWbbf8UnjdZEEPxb29SDMfA6iob6OAAgB9gT0GvgFI&ff=20240807203641&utm_source=Other&v=2.18.0.post9+e462414&fc=20240626034904",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:44 +0000",
         "entries": [
             {
                 "title": "The Merits of Bilateral Application of Middle Ear Implants in Patients With Bilateral Conductive and/or Mixed Hearing Loss",
@@ -605,8 +614,8 @@
     },
     "Journal of Audiology and Otology": {
         "feed_title": "J Audiol Otol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&fc=20240626035035&utm_medium=rss&ff=20240806203659&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_campaign=pubmed-2",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:00 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&utm_source=Other&utm_campaign=pubmed-2&fc=20240626035035&utm_medium=rss&utm_content=1dEgRdrjhMBTOLHb4c1RmdM86p9JwIuc3EcvzrRB8IvJHcL9dn&ff=20240807203644&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:45 +0000",
         "entries": [
             {
                 "title": "Improving Accuracy and Reliability of Hearing Tests: Measurement Standards for Audiometric Devices",
@@ -747,9 +756,18 @@
     },
     "American Journal of Audiology": {
         "feed_title": "Am J Audiol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&v=2.18.0.post9+e462414&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_medium=rss&utm_campaign=pubmed-2&ff=20240806203700",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:01 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&utm_medium=rss&utm_campaign=pubmed-2&ff=20240807203646&utm_source=Other&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:46 +0000",
         "entries": [
+            {
+                "title": "Perspectives on Hearing Aid Cost and Uptake for Prescription and Over-the-Counter Hearing Aid Users",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39110835/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240807203646&v=2.18.0.post9+e462414",
+                "published": "2024-08-07",
+                "full_content": "Am J Audiol\n. 2024 Aug 7:1-11. doi: 10.1044/2024_AJA-23-00116. Online ahead of print.\nABSTRACT\nPURPOSE: This study explored user perspectives on the relationship between hearing aid cost and uptake, as well as cost-related recommendations for others with hearing difficulties, in a sample of prescription and over-the-counter (OTC) hearing aid users.\nMETHOD: A secondary analysis was conducted on a cross-sectional survey using qualitative content analysis to analyze responses related to the cost of hearing aids. The study included a total of 241 adult participants, comprising 179 prescription hearing aid users from the Hearing Tracker website and 62 OTC hearing aid users from the Lexie Hearing U.S. database.\nRESULTS: Prescription users had a mean age of 66.7 years (\nSD\n= 13.2), including 62.0% males, 37.4% females, and 0.6% nonbinary individuals. OTC users had a mean age of 63.0 years (\nSD\n= 13.4), with 48.4% males and 51.6% females. Three overarching domains were identified: perceived enablers to hearing aid uptake related to the cost, perceived barriers to hearing aid uptake related to the cost, and recommendations to others with hearing difficulties related to the cost, with 14 categories recognized for prescription users and 12 for OTC users. Both groups identified the high cost of hearing aids and lack of insurance coverage as significant barriers to uptake. Many prescription users reported external support (e.g., financial support and health insurance coverage) as an enabler, while OTC users frequently mentioned the affordability of OTC devices. The most common recommendation among prescription users was to seek professional support, whereas OTC users recommended researching hearing aids before making a purchase.\nCONCLUSIONS: Cost and insurance coverage consistently emerge as primary barriers to hearing aid adoption for both prescription and OTC users. To foster greater accessibility, initiatives should target these financial obstacles. Additional research is warranted on the relationship between hearing aid cost and uptake, especially among OTC users and those seeking financial assistance.\nSUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.26496922.\nPMID:\n39110835\n| DOI:\n10.1044/2024_AJA-23-00116",
+                "pmid": "39110835",
+                "title_translated": "對於處方及非處方助聽器使用者的助聽器成本與接受度的觀點",
+                "tldr": "💡 TL;DR: 本研究探討了助聽器成本與使用的關係，分析了241名處方及非處方助聽器使用者的觀點。結果顯示，助聽器的高成本及缺乏保險覆蓋是主要的採用障礙，處方用戶認為外部支持是促進因素，非處方用戶則強調其負擔能力。研究建議應針對金融障礙進行改進，以提高助聽器的可及性。"
+            },
             {
                 "title": "Impact of Hearing Aid Processing Delay on Stop Consonant Voicing Perception in Open Fittings",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39106202/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1j_AM05Yvo4dA_yczZCRCu1l6AbGtONBPlhq4Sy7a5e3brUscH&fc=20240626035128&ff=20240806203700&v=2.18.0.post9+e462414",
@@ -898,8 +916,8 @@
     },
     "Seminars in Hearing": {
         "feed_title": "Semin Hear[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240806203703&utm_campaign=pubmed-2&fc=20240626035220&utm_source=Other&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_medium=rss&v=2.18.0.post9+e462414",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:03 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&ff=20240807203650&fc=20240626035220&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1loZZVJsOLJbgKe1MOD0QyYgaZrID2AqSyOu2g1d51zgOhMkuX&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:51 +0000",
         "entries": [
             {
                 "title": "Errata: Unleashing the Power of Test Box and Real-Ear Probe Microphone Measurement",
@@ -1040,8 +1058,8 @@
     },
     "Audiology and Neurotology": {
         "feed_title": "Audiol Neurootol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240806203703&v=2.18.0.post9+e462414&utm_source=Other&fc=20240626203307&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:04 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&ff=20240807203652&utm_content=1b5VuYnHtAIVGInKTYPr2lD7pOhapmmMbzoxfjuUBFzxVi3sWx&utm_source=Other&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&fc=20240626203307",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:52 +0000",
         "entries": [
             {
                 "title": "Comparison between the international outcome inventory for hearing aids questionnaire and real-ear measurement",
@@ -1191,8 +1209,8 @@
     },
     "Dysphagia": {
         "feed_title": "Dysphagia[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_source=Other&v=2.18.0.post9+e462414&ff=20240806203706&utm_medium=rss&utm_campaign=pubmed-2",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:07 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1vm7YKsZZUUmnifX5M5w42SGutu51BjSmvlqUKnrtOLLZkdgct&fc=20240627042757&utm_source=Other&v=2.18.0.post9+e462414&ff=20240807203652",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:53 +0000",
         "entries": [
             {
                 "title": "Sensory Changes Related to Swallowing in Motor Neurone Disease",
@@ -1333,9 +1351,18 @@
     },
     "American Journal of Speech-Language Pathology": {
         "feed_title": "Am J Speech Lang Pathol[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&ff=20240806203707&utm_source=Other&v=2.18.0.post9+e462414&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_medium=rss&utm_campaign=pubmed-2&fc=20240627042910",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:07 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240807203653&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:54 +0000",
         "entries": [
+            {
+                "title": "Designing Cultural Adaptations of Caregiver-Implemented Interventions for Latinx Caregivers of Children Who Use Augmentative and Alternative Communication: Key Considerations",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39110812/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240807203653&v=2.18.0.post9+e462414",
+                "published": "2024-08-07",
+                "full_content": "Am J Speech Lang Pathol\n. 2024 Aug 7:1-14. doi: 10.1044/2024_AJSLP-24-00101. Online ahead of print.\nABSTRACT\nPURPOSE: Caregivers play a critical role in their children's development and serve as their primary communication partners. Family interactions provide the most naturally occurring opportunities for children with complex communication needs to learn language in the context of family routines. A growing body of research suggests that caregivers can effectively support their children's use of augmentative and alternative communication (AAC) systems when provided with appropriate training and coaching through caregiver-implemented interventions (CIIs). However, the efficacy of these interventions remains untested among culturally and linguistically diverse caregivers. Given the increasing diversity in the United States, there is a pressing need to develop CIIs that align with the cultural and linguistic preferences of diverse families.\nMETHOD: Using the Ecological Validity Framework and the Checklist for Cultural Adaptations, this tutorial explores considerations for culturally adapting caregiver-implemented AAC interventions for Latinx caregivers of children with AAC needs. The aim is to ensure that interventions are relevant, meaningful, and respectful of cultural and linguistic practices. Through carefully crafted cultural adaptations, interventions can achieve greater acceptance by caregivers.\nRESULTS AND DISCUSSION: This tutorial suggests a series of cultural adaptations to ensure accessibility, sustainability, and success of caregiver-implemented AAC interventions for Latinx caregivers of children with AAC needs. By incorporating cultural and linguistic considerations into the intervention design, we can enhance its acceptability among Latinx caregivers. This, in turn, can lead to improved outcomes in AAC implementation within the home environment.\nPMID:\n39110812\n| DOI:\n10.1044/2024_AJSLP-24-00101",
+                "pmid": "39110812",
+                "title_translated": "為拉丁裔兒童使用輔助與替代溝通的照顧者設計文化適應的照顧者執行介入措施：主要考量因素",
+                "tldr": "💡 TL;DR: 本研究旨在探討如何為拉丁裔照顧者的增補與替代溝通（AAC）介入方案進行文化調整，以提高其可接受性和有效性。透過生態有效性框架及文化適應檢查表，提出一系列文化調整建議，以確保干預措施符合文化和語言實踐。這樣的設計能促進照顧者的接受度，從而改善家庭中AAC的實施效果。"
+            },
             {
                 "title": "Impact of Cultural-Linguistic Differences on Vocal Fatigue Perception: A Systematic Review and Meta-Analysis",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39102609/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TcjM2U847OotqeG0aOjlXlTht4or7b7cBUuDXabYgJfM9KESn&fc=20240627042910&ff=20240805204347&v=2.18.0.post9+e462414",
@@ -1475,9 +1502,18 @@
     },
     "Journal of Speech, Language, and Hearing Research": {
         "feed_title": "J Speech Lang Hear Res[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&utm_campaign=pubmed-2&utm_source=Other&fc=20240627043029&ff=20240806203707&utm_medium=rss&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&v=2.18.0.post9+e462414",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:08 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&ff=20240807203658&fc=20240627043029&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&v=2.18.0.post9+e462414&utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2",
+        "feed_updated": "Thu, 08 Aug 2024 00:36:58 +0000",
         "entries": [
+            {
+                "title": "Statistical Learning Among Preschoolers With and Without Developmental Language Disorder: Examining Effects of Language Status, Age, and Prior Learning",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39110814/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240807203658&v=2.18.0.post9+e462414",
+                "published": "2024-08-07",
+                "full_content": "J Speech Lang Hear Res\n. 2024 Aug 7:1-13. doi: 10.1044/2024_JSLHR-23-00602. Online ahead of print.\nABSTRACT\nPURPOSE: Our goal was to compare statistical learning abilities between preschoolers with developmental language disorder (DLD) and peers with typical development (TD) by assessing their learning of two artificial grammars.\nMETHOD: Four- and 5-year-olds with and without DLD were compared on their statistical learning ability using two artificial grammars. After learning an\naX\ngrammar, participants learned a relatively more complex\nabX\ngrammar with a nonadjacent relationship between\na\nand\nX\n. Participants were tested on their generalization of the grammatical pattern to new sequences with novel\nX\nelements that conformed to (\naX, abX\n) or violated (\nXa, baX\n) the grammars.\nRESULTS: Results revealed an interaction between age and language group. Four-year-olds with and without DLD performed equivalently on the\naX\nand\nabX\ngrammar tests, and neither of the 4-year-old groups' accuracy scores exceeded chance. In contrast, among 5-year-olds, TD participants scored significantly higher on\naX\ntests compared to participants with DLD, but the groups'\nabX\nscores did not differ. Five-year-old participants with DLD did not exceed chance on any test, whereas 5-year-old TD participants' scores exceeded chance on all grammar learning outcomes. Regression analyses indicated that\naX\nperformance positively predicted learning outcomes on the subsequent\nabX\ngrammar for TD participants.\nCONCLUSION: These results indicate that preschool-age participants with DLD show deficits relative to typical peers in statistical learning, but group differences vary with participant age and type of grammatical structure being tested.\nSUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.26487376.\nPMID:\n39110814\n| DOI:\n10.1044/2024_JSLHR-23-00602",
+                "pmid": "39110814",
+                "title_translated": "學齡前兒童統計學習之比較：語言狀態、年齡及先前學習的影響研究",
+                "tldr": "💡 TL;DR: 本研究比較有發展性語言障礙（DLD）和典型發展（TD）學齡前兒童的統計學習能力，使用兩種人工文法進行評估。結果顯示，四歲DLD和TD兒童在統計學習表現相當，但五歲的TD兒童在簡單文法測試中表現顯著優於DLD組，且DLD兒童的表現未超過隨機機率。研究發現年齡和文法結構類型會影響群組差異。"
+            },
             {
                 "title": "Dual-Task Interference in the Assessment of Listening Effort: Results of Normal-Hearing Adults, Cochlear Implant Users, and Hearing Aid Users",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39106210/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1pGjkNWR5Nm7Rpjo7LdTp-vSJso3W7m10TWkKLHLSJDlKRf99y&fc=20240627043029&ff=20240806203707&v=2.18.0.post9+e462414",
@@ -1635,8 +1671,8 @@
     },
     "Language, Speech, and Hearing Services in Schools": {
         "feed_title": "Lang Speech Hear Serv Sch[jour]",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&utm_source=Other&fc=20240627043108&ff=20240806203718&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:19 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&utm_medium=rss&utm_campaign=pubmed-2&fc=20240627043108&utm_content=1RMSezfb-YLyPE6nhmTGFYNwLKWhRD7Dfzw2mWj8jVdd9MTcLY&ff=20240807203703&utm_source=Other&v=2.18.0.post9+e462414",
+        "feed_updated": "Thu, 08 Aug 2024 00:37:04 +0000",
         "entries": [
             {
                 "title": "Caregivers' Perceptions of COVID-19 Educational Disruptions on Children With Developmental Language Disorder and Typically Developing Peers",
@@ -1777,9 +1813,18 @@
     },
     "Scientific Reports w/ hearing keyword": {
         "feed_title": "Sci Rep[jour] + hearing",
-        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&v=2.18.0.post9+e462414&utm_medium=rss&fc=20240630214159&utm_campaign=pubmed-2&utm_source=Other&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&ff=20240806203719",
-        "feed_updated": "Wed, 07 Aug 2024 00:37:20 +0000",
+        "feed_link": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&ff=20240807203704&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&utm_source=Other",
+        "feed_updated": "Thu, 08 Aug 2024 00:37:05 +0000",
         "entries": [
+            {
+                "title": "The influencing factors of health status among low-income individuals living alone in Wuxi, China",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/39107571/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240807203704&v=2.18.0.post9+e462414",
+                "published": "2024-08-06",
+                "full_content": "Sci Rep\n. 2024 Aug 6;14(1):18174. doi: 10.1038/s41598-024-69377-5.\nABSTRACT\nThis study aimed to understand the health status of low-income individuals living alone and to identify influencing factors. Using systematic random sampling methods, low-income individuals living alone were randomly selected. Via telephone interviews, we gathered information about their general health status. A logistic regression model was used to analyze relevant factors about the physical health of this population. The study included 1583 low-income individuals living alone. The prevalence rate of all kinds of diseases in low-income living alone in this survey was 88.63%. The multifactorial logistic regression analysis revealed that the risk factors for illness in this population were age ≥ 60 (OR 1.842, 95% CI 1.135-2.926, P = 0.006), self-rated poor mental health (OR 2.538, 95% CI 1.128-3.828, P = 0.005), and self-rated poor hearing status (OR 2.781, 95% CI 1.586-3.647, P = 0.001). Being female (OR 0.469, 95% CI 0.178-0.821, P = 0.033) was identified as a protective factor. Low-income individuals living alone are a unique group who lack familial care and economic and social support, and are thus in a disadvantaged social position. Therefore, this population requires increased attention, especially regarding their physical health. Implementing targeted assistance policies to improve their health status and enhance their quality of life is essential.\nPMID:\n39107571\n| DOI:\n10.1038/s41598-024-69377-5",
+                "pmid": "39107571",
+                "title_translated": "無錫市低收入獨居人士健康狀況的影響因素",
+                "tldr": "💡 TL;DR: 本研究旨在了解獨居低收入者的健康狀況及影響因素，調查顯示88.63%的人存在健康問題。透過邏輯迴歸分析發現，60歲以上、自評精神健康差及聽力不佳是主要風險因素，而女性則是保護因素。獨居低收入者因缺乏家庭及社會支持，亟需針對性政策以改善其健康狀況及生活品質。"
+            },
             {
                 "title": "Voxelwise analysis of the central hearing pathway in senior dogs reveals changes associated with fractional lifespan",
                 "link": "https://pubmed.ncbi.nlm.nih.gov/39103441/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1DaoU-ci3R9f_JJSY_RDaHnmKtxRbinXE0heei8_t91DE1jQ-S&fc=20240630214159&ff=20240806203719&v=2.18.0.post9+e462414",
